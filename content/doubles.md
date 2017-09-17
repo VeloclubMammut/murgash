@@ -6,7 +6,7 @@ weight: 4
 ---
 
 ## Дължина на трасето: 44км
-### Регистрация  
+### Резултати  
 [Резултати](http://racetimingbg.com/live-results/#9_7A844F)  
 ### Трасе  
 [Трак (gpx)](https://drive.google.com/open?id=0B8lR1_MWHzbCMWhaR1pDeEZXV0k)  
