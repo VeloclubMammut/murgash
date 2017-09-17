@@ -6,8 +6,8 @@ weight: 3
 ---
 
 ## Дължина на трасето: 54км
-### Регистрация  
-[Форма за записване](https://drive.google.com/open?id=1AB-FEUH6qMxYYhZrs6K4OoYtZD02veLSIrjH6BfdzVM)  
+### Резултати  
+[Резултати](http://racetimingbg.com/live-results/#0_B174A0)  
 ### Трасе  
 [Трак (gpx)](https://drive.google.com/open?id=0B8lR1_MWHzbCYldMQmhPakdWU0E)  
 [Bikemap](https://www.bikemap.net/en/route/4143051-murgash-54km)  
