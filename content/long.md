@@ -5,7 +5,7 @@ draft: false
 weight: 3
 ---
 
-## Дължина на трасето: 76км, 3300м изкачване
+## 76км, 3300м изкачване
 ### Трасе  
 [Епик (gpx)](https://drive.google.com/open?id=174corZb-OmA-8nSKEjw_8PGl8BZM7Q04))
 
