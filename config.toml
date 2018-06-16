@@ -2,13 +2,14 @@ baseurl = "http://murgash.veloclubmammut.com/"
 title = "Купа Мургаш 2018"
 theme = "dimension"
 languageCode = "en-us"
-defaultContentLanguage = "en"
+defaultContentLanguage = "bg"
 enableRobotsTXT = true
 disableRSS = true
 
 [params]
   title = "Купа Мургаш 2018"
-  description = '<!--[-->Неделя, 23 Септември 2018<!--]--><br /><!--[-->С подкрепата на  <a href="https://maxcombike.bg/">Максбайк</a><!--]--><br />'
+  description = '<!--[-->Неделя, 23 Септември 2018.  <!--]--><br /><!--[-->С подкрепата на  <a href="http://maxcombike.com/">Максбайк</a>, <a href="https://pavebikeshop.com/">PaVé Bike Shop</a>, <a href="http://highfive-bg.com/">High5</a>, <a href="http://www.avitel-bg.com/">Авител</a>, <a href="http://www.racetimingbg.com/">Race Timing BG</a><!--]--><br />'
+[languages.en]
   logo = "fa-bicycle"
   copyright = "Veloclub Mammut 2018"
 
