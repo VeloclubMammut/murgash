@@ -4,7 +4,7 @@ branches:
     - master
 install: go get -v github.com/spf13/hugo
 script:
-- hugo -D
+- hugo
 addons:
   ssh_known_hosts: murgash.veloclubmammut.com
 after_success:
