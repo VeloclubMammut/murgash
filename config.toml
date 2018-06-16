@@ -7,8 +7,11 @@ enableRobotsTXT = true
 disableRSS = true
 
 [params]
-  title = "Купа Мургаш 2018"
-  description = '<!--[-->Неделя, 23 Септември 2018.  <!--]--><br /><!--[-->С подкрепата на  <a href="http://maxcombike.com/">Максбайк</a>, <a href="https://pavebikeshop.com/">PaVé Bike Shop</a>, <a href="http://highfive-bg.com/">High5</a>, <a href="http://www.avitel-bg.com/">Авител</a>, <a href="http://www.racetimingbg.com/">Race Timing BG</a><!--]--><br />'
+    logo = "fa-bicycle"
+    copyright = "Велоклуб Мамут 2018"
+    title = "Купа Мургаш 2018"
+    description = '<!--[-->Неделя, 23 Септември 2018.  <!--]--><br /><!--[-->С подкрепата на  <a href="http://maxcombike.com/">Максбайк</a>, <a href="https://pavebikeshop.com/">PaVé Bike Shop</a>, <a href="http://highfive-bg.com/">High5</a>, <a href="http://www.avitel-bg.com/">Авител</a>, <a href="http://www.racetimingbg.com/">Race Timing BG</a><!--]--><br />'
+
 #[[params.social]]
 #  medium = "twitter"
 #  icon = "twitter"
@@ -33,8 +36,6 @@ disableRSS = true
   [languages.bg]
     languageName = "Български"
     weight = 1
-    title = "Купа Мургаш 2018"
-    description = '<!--[-->Неделя, 23 Септември 2018.  <!--]--><br /><!--[-->С подкрепата на  <a href="http://maxcombike.com/">Максбайк</a>, <a href="https://pavebikeshop.com/">PaVé Bike Shop</a>, <a href="http://highfive-bg.com/">High5</a>, <a href="http://www.avitel-bg.com/">Авител</a>, <a href="http://www.racetimingbg.com/">Race Timing BG</a><!--]--><br />'
   [languages.en]
     languageName = "English"
     weight = 2
