@@ -10,7 +10,7 @@ weight: 4
 #### Състезанието по планинско колоездене в дисциплина Крос кънтри маратон (XCM) "Купа Мургаш" ще се проведе на 23.09.2018 г. /Неделя/, в гр. Бухово, област Софийска. Старт в 08:00 часа пред кметството и финал на същото място.
 
 ### Организатори
-[Велоклуб "Мамут"](https://www.facebook.com/veloclubmammut), ["Максбайк"](http://maxcombike.com/) и [PaVé Bike Shop and Repair](https://pavebikeshop.com/) със съдействето на [Столична Община](https://www.sofia.bg/).
+[Велоклуб "Мамут"](https://www.facebook.com/veloclubmammut), [PaVé Bike Shop and Repair](https://pavebikeshop.com/) със съдействето на [Столична Община](https://www.sofia.bg/).
 
 ### Програма на състезанието
 Неделя, 23 Септември
