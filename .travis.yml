@@ -2,9 +2,10 @@ language: go
 branches:
   only:
     - master
-install: go get -v github.com/spf13/hugo
+services:
+- docker
 script:
-- hugo
+  docker run --rm -ti -v $TRAVIS_BUILD_DIR:/site -w /site hilipbalinov/hugo-docker -t dimension
 addons:
   ssh_known_hosts: murgash.veloclubmammut.com
 after_success:
