@@ -4,7 +4,7 @@ branches:
 services:
 - docker
 script:
-  docker run --rm -ti -v $TRAVIS_BUILD_DIR:/site -w /site hilipbalinov/hugo-docker -t dimension
+  docker run --rm -ti -v $TRAVIS_BUILD_DIR:/site -w /site philipbalinov/hugo-docker -t dimension
 addons:
   ssh_known_hosts: murgash.veloclubmammut.com
 after_success:
