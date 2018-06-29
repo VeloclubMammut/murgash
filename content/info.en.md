@@ -83,7 +83,7 @@ We highly recommend that the participants carry a charged mobile phone during th
 
 ### Routes
  
-* Murgash Epic- 74km. 3300m. climb
+#### Murgash Epic- 74km. 3300m. climb
 Eligible categories: Men Elite, Women Elite, Men Masters
 
 Includes 5 /five/ major climbs
@@ -95,7 +95,7 @@ Includes 5 /five/ major climbs
 
 This route is only recommended for well prepared cyclists experienced in XCM Marathon races
  
-* Murgash - 45km. 1500м., climb
+#### Murgash - 45km. 1500м., climb
 Eligible categories: Men Hobby, Women Hobby, Juniors
  
 Includes 1 /one/ major climb:
