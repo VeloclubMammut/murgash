@@ -33,11 +33,11 @@ Climb to Goten peak | 16:00
 
 
 #### 2nd Start - Hobby
- - 09.00 ч. - Initial instruction and equipment check
- - 09.30 ч. - Pre-race briefing
- - 10.00 ч. – Start - Buhovo
- - 14.00 ч. - Expected time of the first finishers
- - 16.00 ч. - Awards ceremony
+ - 09.00 h. - Initial instruction and equipment check
+ - 09.30 h. - Pre-race briefing
+ - 10.00 h. – Start - Buhovo
+ - 14.00 h. - Expected time of the first finishers
+ - 16.00 h. - Awards ceremony
 
 ##### Cutoff Times:
 
@@ -48,13 +48,13 @@ Murgash Peak | 13:00
 
 
 ### Registration
-Online registraction closes on 21.09.2018 /Friday/ at http://murgash.veloclubmammut.com/.
+Online registration closes on 21.09.2018 /Friday/ at http://murgash.veloclubmammut.com/.
 
 Race numbers can be picked up from 15.08.2018,  up to 21.09.2018 19:00h, in **PaVé Bike Shop and Repair**  ***Sofia, Zlatovrah. Str 50***.  
 Race numbers will be given out at the start in Buhovo only under exceptional circumstances and if you can provide a payment receipt!  
 After the race end, the race numbers will be collected by the commissaires. Thank you for your cooperation!
 
-Entry Fee:  
+#### Entry Fee:  
  -  until 31.08.2018, 23:59h: **40 BGN**!  
  -  from 01.09 until 21.09.2018, 18:59h: **60 BGN**!  
 
@@ -69,9 +69,9 @@ If you pay by bank transfer, please present a proof of payment when picking up y
 ### Race rules:
 *The race adheres to the rules of the UCI (Union Cycliste Internationale).*  
 
-Each participant MUST:  
+##### Each participant MUST:
  - wear a helmet and protective gloves
- - if under 18 years of age - submit a consent form signed by a parent/guardian
+ - if under 18 years of age, submit a consent form signed by a parent/guardian
  - participate with a 
  - comply with road traffic regulations
  - comply with instructions given by the race commissaires
@@ -86,7 +86,7 @@ We highly recommend that the participants carry a charged mobile phone during th
 #### Murgash Epic- 74km. 3300m. climb
 Eligible categories: Men Elite, Women Elite, Men Masters
 
-Includes 5 /five/ major climbs
+##### Includes 5 /five/ major climbs
  -          Murgash Peak - 17km., 1000m. climb.
  -          Potop village -  4,5km., 400m. climb
  -          Zhelyava village - 6km., 600m. climb
@@ -98,7 +98,7 @@ This route is only recommended for well prepared cyclists experienced in XCM Mar
 #### Murgash - 45km. 1500м., climb
 Eligible categories: Men Hobby, Women Hobby, Juniors
  
-Includes 1 /one/ major climb:
+##### Includes 1 /one/ major climb:
  -          Murgash Peak - 17km., 1000m. climb.
 
 Despite having a single large climb, there is a 17km very fast descent followed by a 10km hilly ride to the finish.
@@ -111,6 +111,7 @@ The organizers reserve the right to make changes to the routes if deemed necessa
 
 ### Ranking and prizes:
 Ranking is individual (1st, 2nd, 3rd) in each category
+
 Prizes will be cash and/or non-monetary prizes from our sponsors:
 
 #### PAVÉ BIKE SHOP, HIGH5, AVITEL, RACE TIMING BG
