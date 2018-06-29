@@ -5,112 +5,113 @@ draft: false
 weight: 4
 ---
 
-# Купа “Мургаш”
+# Murgash Cup
 
-#### Състезанието по планинско колоездене в дисциплина Крос кънтри маратон (XCM) "Купа Мургаш" ще се проведе на 23.09.2018 г. /Неделя/, в гр. Бухово, област Софийска. Старт в 08:00 часа пред кметството и финал на същото място.
+#### The Cross-Country Marathon  (XCM) "Murgash Cup" will take place on the  23.09.2018 /Sunday/, in Buhovo, near Sofia, starting from  08:00 in front of the building of Buhovo Municipality and finish at the same place
 
-### Организатори
-[Велоклуб "Мамут"](https://www.facebook.com/veloclubmammut), [PaVé Bike Shop and Repair](https://pavebikeshop.com/) със съдействето на [Столична Община](https://www.sofia.bg/).
+### Organizers
+[Veloclub Mamut](https://www.facebook.com/veloclubmammut), [PaVé Bike Shop and Repair](https://pavebikeshop.com/) with the cooperation of [Sofia Municipality](https://www.sofia.bg/).
 
-### Програма на състезанието
-Неделя, 23 Септември
+### Program
+Sunday, September 23rd
 
-#### Старт Елит
- - 07.00 ч. проверка на номерата и екипировката - участниците трябва да са на старта за проверка /каски, номера, екипировка...т.н./ и инструктаж!
- - 07.30 ч.- инструктаж
-Прогнозни времена:
- - 08.00 ч. – старт – гр.Бухово
- - 14.00 ч. - финал на най-бързите
- - 16.00 ч.- награждаване.
+#### 1st Start - Elite
+ - 07.00 h. - Initial instructions and equipment check
+ - 07.30 h. - Pre-race briefing
+ - 08.00 h. – Start - Buhovo
+ - 14.00 h. - Expected time of the first finishers
+ - 16.00 h. - Awards ceremony
 
-#### Старт Хоби
- - 09.00 ч. проверка на номерата и екипировката - участниците трябва да са на старта за проверка /каски, номера, екипировка...т.н./ и инструктаж!
- - 09.30 ч.- инструктаж
-Прогнозни времена:
- - 08.00 ч. – старт – гр.Бухово
- - 14.00 ч. - финал на най-бързите
- - 16.00 ч.- награждаване.
+##### Cutoff Times:
+
+Checkpoint | Time
+----------------|----
+Start | 08:00  
+Murgash Peak | 13:00 
+Zhelyava village | 15:00
+Climb to Goten peak | 16:00
 
 
+#### 2nd Start - Hobby
+ - 09.00 ч. - Initial instruction and equipment check
+ - 09.30 ч. - Pre-race briefing
+ - 10.00 ч. – Start - Buhovo
+ - 14.00 ч. - Expected time of the first finishers
+ - 16.00 ч. - Awards ceremony
 
-### Регистрация
-Всеки желаещ може да се регистрира онлайн до 21.09.2018 /петък/ на адрес http://murgash.veloclubmammut.com/.
+##### Cutoff Times:
 
-Номерата ще се раздават от 15.08.2018, до 19ч. на 21.09.2018, в магазин **PaVé Bike Shop and Repair** на адрес ***София, ул. Златовръх 50***.  
-Номера на старта ще се раздават само по изключение на регистрирали се и заплатили такса до 15.09.2017 участници, които не живеят в София!  
-След финиширането на състезателите номерата ще бъдат събрани! Номерата ще са с чипове за времеизмерване, които ще се използват и в бъдеще. Благодарим!  
+ Checkpoint | Time
+----------------|----
+Start | 10:00  
+Murgash Peak | 13:00 
 
-Стартова такса:  
- -  до 24:00ч. на 31.08.2018: **35 лева**!  
- -  от 01.09 до 18:59. на 21.09.2018: **50 лева**!  
 
-В стартовата такса е включена застраховка, стартов пакет, подкрепителни пунктове, ПСС. Таксата за участие може да заплатите в **PaVé Bike Shop and Repair** на адрес ***София, ул. Златовръх 50*** или на следната банкова сметка:
+### Registration
+Online registraction closes on 21.09.2018 /Friday/ at http://murgash.veloclubmammut.com/.
+
+Race numbers can be picked up from 15.08.2018,  up to 21.09.2018 19:00h, in **PaVé Bike Shop and Repair**  ***Sofia, Zlatovrah. Str 50***.  
+Race numbers will be given out at the start in Buhovo only under exceptional circumstances and if you can provide a payment receipt!  
+After the race end, the race numbers will be collected by the commissaires. Thank you for your cooperation!
+
+Entry Fee:  
+ -  until 31.08.2018, 23:59h: **40 BGN**!  
+ -  from 01.09 until 21.09.2018, 18:59h: **60 BGN**!  
+
+The entry fee includes insurance for the race, mountain rescue, starting package, and support, water, food at the checkpoints. You can pay the fee in **PaVé Bike Shop and Repair** at ***Sofia, Zlatovruh Str. 50** or by bank transfer:
 ```
 IBAN BG51FINV91501014661791
-Сдружение ВелоКлуб Мамут
-на основание – „Мургаш 2018”
+Recipient: Veloclub Mammut
+Reasion: „Murgash 2018”
 ```
-Заплатилите по банка да представят платежно нареждане при взимане на номера.
+If you pay by bank transfer, please present a proof of payment when picking up your race number
 
-### Изисквания към състезателите:  
-*Състезанието ще се провежда съгласно правилника на UCI (Union Cycliste Internationale).*  
+### Race rules:
+*The race adheres to the rules of the UCI (Union Cycliste Internationale).*  
 
-Всеки състезател е длъжен:  
- - да e екипиран с каска и ръкавици  
- - да e попълнил декларация за физическо здраве и умения с велосипед  
- - ако не е навършил 18 години - при взимане на състезателния номер да представи писмено съгласие за участие от родител/настойник. Номера се дават само срещу представена декларация!  
- - да участва с изправен планински велосипед  
- - да спазва правилника за движение по пътищата  
- - да спазва стриктно указанията на маршалите и съдиите  
- - да преминава през всички контролни пунктове (при липса на дори един, резултатът на състезателя не се зачита в класирането)  
- - да преминава само по маркираното трасе  
- - да финишира с велосипеда, с който стартира!  
- - при участие в отбор - да преминава през контролните пунктове с разлика, не по-голяма от две /2/ минути от съотборника си. В противен случай към времето на отборът ще бъдат добавени десет /10/ минути. На финала се отчита времето на вторият състезател.  
+Each participant MUST:  
+ - wear a helmet and protective gloves
+ - if under 18 years of age - submit a consent form signed by a parent/guardian
+ - participate with a 
+ - comply with road traffic regulations
+ - comply with instructions given by the race commissaires
+ - pass through all checkpoints (failure leads to automatic disqualification)  
+ - follow the race markings
+ - finish the race with the same bicycle with which they started  
 
-Силно препоръчително е състезателите да носят в себе си мобилен телефон със заредени батерии за връзка в случай на необходимост.
+We highly recommend that the participants carry a charged mobile phone during the race, in case of emergency!
 
-### Маршрути
+### Routes
  
-* Мургаш- 54км. 3300м. положителна денивелация.  
-По този маршрут ще вземат участие категориите: Мъже, Жени, Ветерани
+* Murgash Epic- 74km. 3300m. climb
+Eligible categories: Men Elite, Women Elite, Men Masters
 
-Включва 5 /пет/ изкачвания:
- -          Вр. Мургаш - дължина 17км., 1000м денивелация.
- -          Потоп - дължина 4,5км., 400м. денивелация
- -          Желява - дължина 6км., 600м. денивелация
- -          Желява II - дължина 4км., 400м. денивелация
- -          Готен - дължина 5км., 500м. денивелация
+Includes 5 /five/ major climbs
+ -          Murgash Peak - 17km., 1000m. climb.
+ -          Potop village -  4,5km., 400m. climb
+ -          Zhelyava village - 6km., 600m. climb
+ -          Zhelyava village II - 4km., 400m. climb
+ -          Goten Peak - 5km., 500m. climb
 
-Маршрутът е подходящ за добре подготвени любители и състезатели.
+This route is only recommended for well prepared cyclists experienced in XCM Marathon races
  
-* Мургаш- 45км. 1500м., положителна денивелация
-По този маршрут ще вземат участие категориите : Мъже, Жени, Юноши младша възраст, Девойки, Отбори
+* Murgash - 45km. 1500м., climb
+Eligible categories: Men Hobby, Women Hobby, Juniors
  
-Включва 1/едно изкачване:
- -          Вр. Мургаш-  дължина 17км., 1000м денивелация.
+Includes 1 /one/ major climb:
+ -          Murgash Peak - 17km., 1000m. climb.
 
-Въпреки, че е по-кратък маршрут, 17 километровото спускане от върха ще ви отведе на 10км от финала, които  включват предизвикателни хълмове и дерета  за преодоляване.
+Despite having a single large climb, there is a 17km very fast descent followed by a 10km hilly ride to the finish.
 
-Маршрутът е подходящ за средно и добре подготвени любители.
-
-### Контролни времена:
-
-Контролен пункт | Час
-----------------|----
-Старт | 10:00  
-Х. Мургаш | 12:00  
-Връх Мургаш | 12:30  
-с. Потоп | 13:30 /важи за Голям Мургаш/  
-с. Желява | 14:30 /важи за Голям Мургаш/ 
+This route is recommended for well prepared hobby cyclists
 
 
-Организаторът си запазва правото да извършва промени по маршрутите!
 
-### Класиране и награди:
-Класирането е индивидуално по групи.
-Награден фонд: парични и предметни награди осигурени от нашите спонсори: 
+The organizers reserve the right to make changes to the routes if deemed necessary
 
-#### PAVÉ BIKE SHOP, HIGH5, АВИТЕЛ, RACE TIMING BG
+### Ranking and prizes:
+Ranking is individual (1st, 2nd, 3rd) in each category
+Prizes will be cash and/or non-monetary prizes from our sponsors:
 
-
+#### PAVÉ BIKE SHOP, HIGH5, AVITEL, RACE TIMING BG
 
