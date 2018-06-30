@@ -50,7 +50,7 @@ Murgash Peak | 13:00
 ### Registration
 Online registration closes on 21.09.2018 /Friday/ at http://murgash.veloclubmammut.com/.
 
-Race numbers can be picked up from 15.08.2018,  up to 21.09.2018 19:00h, in **PaVé Bike Shop and Repair**  ***Sofia, Zlatovrah. Str 50***.  
+Race numbers can be picked up from 17.09.2018,  up to 21.09.2018 19:00h, in **PaVé Bike Shop and Repair**  ***Sofia, Zlatovrah. Str 50***.  
 Race numbers will be given out at the start in Buhovo only under exceptional circumstances and if you can provide a payment receipt!  
 After the race end, the race numbers will be collected by the commissaires. Thank you for your cooperation!
 
@@ -83,7 +83,7 @@ We highly recommend that the participants carry a charged mobile phone during th
 
 ### Routes
  
-#### Murgash Epic- 74km. 3300m. climb
+#### Murgash Epic- 76km. 3300m. climb
 Eligible categories: Men Elite, Women Elite, Men Masters
 
 ##### Includes 5 /five/ major climbs
