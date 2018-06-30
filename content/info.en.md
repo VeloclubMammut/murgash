@@ -50,7 +50,7 @@ Murgash Peak | 13:00
 ### Registration
 Online registration closes on 21.09.2018 /Friday/ at http://murgash.veloclubmammut.com/.
 
-Race numbers can be picked up from 17.09.2018,  up to 21.09.2018 19:00h, in **PaVé Bike Shop and Repair**  ***Sofia, Zlatovrah. Str 50***.  
+Race numbers can be picked up from 17.09.2018,  up to 21.09.2018 19:00h, in **PaVé Bike Shop and Repair**  (address **Sofia, Zlatovrah. Str 50**).  
 Race numbers will be given out at the start in Buhovo only under exceptional circumstances and if you can provide a payment receipt!  
 After the race end, the race numbers will be collected by the commissaires. Thank you for your cooperation!
 
@@ -58,11 +58,11 @@ After the race end, the race numbers will be collected by the commissaires. Than
  -  until 31.08.2018, 23:59h: **40 BGN**!  
  -  from 01.09 until 21.09.2018, 18:59h: **60 BGN**!  
 
-The entry fee includes insurance for the race, mountain rescue, starting package, and support, water, food at the checkpoints. You can pay the fee in **PaVé Bike Shop and Repair** at ***Sofia, Zlatovruh Str. 50** or by bank transfer:
+The entry fee includes insurance for the race, mountain rescue, starting package, and support, water, food at the checkpoints. You can pay the fee in **PaVé Bike Shop and Repair** at **Sofia, Zlatovruh Str. 50** or by bank transfer:
 ```
 IBAN BG51FINV91501014661791
 Recipient: Veloclub Mammut
-Reasion: „Murgash 2018”
+Reason: „Murgash 2018”
 ```
 If you pay by bank transfer, please present a proof of payment when picking up your race number
 
