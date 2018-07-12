@@ -48,7 +48,7 @@ Murgash Peak | 13:00
 
 
 ### Registration
-Online registration closes on 21.09.2018 /Friday/ at http://murgash.veloclubmammut.com/.
+Online registration closes on 21.09.2018 /Friday/ online.
 
 Race numbers can be picked up from 17.09.2018,  up to 21.09.2018 19:00h, in **PaVé Bike Shop and Repair**  (address **Sofia, Zlatovrah. Str 50**).  
 Race numbers will be given out at the start in Buhovo only under exceptional circumstances and if you can provide a payment receipt!  
