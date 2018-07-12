@@ -2,7 +2,7 @@
 title: "Info"
 date: 2017-08-05T08:14:45Z
 draft: false
-weight: 4
+weight: 3
 ---
 
 # Murgash Cup
@@ -58,7 +58,12 @@ After the race end, the race numbers will be collected by the commissaires. Than
  -  until 31.08.2018, 23:59h: **40 BGN**!  
  -  from 01.09 until 21.09.2018, 18:59h: **60 BGN**!  
 
-The entry fee includes insurance for the race, mountain rescue, starting package, and support, water, food at the checkpoints. You can pay the fee in **PaVé Bike Shop and Repair** at **Sofia, Zlatovruh Str. 50** or by bank transfer:
+The entry fee includes insurance for the race, mountain rescue, starting package, and support, water, food at the checkpoints. Payment can occur:
+
+ - Online [(Link to EPay)](https://www.epay.bg/go/7793633475)
+ - In **PaVé Bike Shop and Repair** at **Sofia, Zlatovruh Str. 50**
+ - Bank transfer:
+
 ```
 IBAN BG51FINV91501014661791
 Recipient: Veloclub Mammut
@@ -114,5 +119,5 @@ Ranking is individual (1st, 2nd, 3rd) in each category
 
 Prizes will be cash and/or non-monetary prizes from our sponsors:
 
-#### PAVÉ BIKE SHOP, HIGH5, AVITEL, RACE TIMING BG
+#### PAVÉ BIKE SHOP, AVITEL, RACE TIMING BG
 

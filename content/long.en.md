@@ -2,7 +2,7 @@
 title: "Epic"
 date: 2018-06-16T08:14:45Z
 draft: false
-weight: 3
+weight: 4
 ---
 
 ## 76km, 3300m climb

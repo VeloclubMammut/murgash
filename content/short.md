@@ -1,5 +1,5 @@
 ---
-title: "Мургаш Хоби"
+title: "Регистрация Хоби"
 date: 2017-08-05T08:14:45Z
 draft: false
 weight: 2
@@ -15,7 +15,7 @@ weight: 2
 #### Хоби
 Категория         | Родени От |      До   | Регистрация     
 :-----------------|:---------:|:---------:|:-----------:
- Мъже хоби (16+)  |     *     | 12.31.2002| [Регистрация](http://www.veloclubmammut.com/murgash-hobby-reg)
+ Мъже хоби (19+)  |     *     | 12.31.2002| [Регистрация](http://www.veloclubmammut.com/murgash-hobby-reg)
  Жени хоби (19+)  |     *     | 12.31.1999| [Регистрация](http://www.veloclubmammut.com/murgash-hobby-reg)
 
 #### Елит (Кръг от БКЛ)

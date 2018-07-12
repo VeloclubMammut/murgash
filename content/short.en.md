@@ -15,7 +15,7 @@ weight: 2
 #### Hobby
 Category         | Born From |      To   | Link     
 :-----------------|:---------:|:---------:|:-----------:
- Men Hobby (16+)  |     *     | 12.31.2002| [Регистрация](http://www.veloclubmammut.com/murgash-hobby-reg)
+ Men Hobby (19+)  |     *     | 12.31.2002| [Регистрация](http://www.veloclubmammut.com/murgash-hobby-reg)
  Women Hobby (19+)|     *     | 12.31.1999| [Регистрация](http://www.veloclubmammut.com/murgash-hobby-reg)
 
 #### Elite (Part of the calendar of BCL)
