@@ -10,7 +10,7 @@ disableRSS = true
     logo = "fa-bicycle"
     copyright = "Велоклуб Мамут 2018"
     title = "Купа Мургаш 2018"
-    description = '<!--[-->Неделя, 23 Септември 2018.  <!--]--><br /><!--[-->С подкрепата на <a href="https://pavebikeshop.com/">PaVé Bike Shop</a>, <a href="http://www.avitel-bg.com/">Авител</a>, <a href="http://www.racetimingbg.com/">Race Timing BG</a><!--]--><br />'
+    description = '<!--[-->Неделя, 23 Септември 2018.  <!--]--><br /><!--[-->С подкрепата на<br /><a href="https://pavebikeshop.com/">PaVé Bike Shop</a>, <a href="http://www.avitel-bg.com/">Авител</a>, <a href="http://www.racetimingbg.com/">Race Timing BG</a><!--]--><br />'
 
 #[[params.social]]
 #  medium = "twitter"
@@ -40,7 +40,7 @@ disableRSS = true
     languageName = "English"
     weight = 2
     title = "Murgash Cup 2018"
-    description = '<!--[-->Sunday, 23 September 2018.  <!--]--><br /><!--[-->Our sponsors: <a href="https://pavebikeshop.com/">PaVé Bike Shop</a>, <a href="http://www.avitel-bg.com/">Avitel</a>, <a href="http://www.racetimingbg.com/">Race Timing BG</a><!--]--><br />'
+    description = '<!--[-->Sunday, 23 September 2018.  <!--]--><br /><!--[-->Our sponsors:<br /><a href="https://pavebikeshop.com/">PaVé Bike Shop</a>, <a href="http://www.avitel-bg.com/">Avitel</a>, <a href="http://www.racetimingbg.com/">Race Timing BG</a><!--]--><br />'
     logo = "fa-bicycle"
     copyright = "Veloclub Mammut 2018"
 
