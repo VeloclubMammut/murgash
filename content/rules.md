@@ -2,7 +2,7 @@
 title: "Наредба"
 date: 2018-06-16T09:16:34Z
 draft: false
-weight: 1
+weight: 5
 ---
 # Купа “Мургаш”
 
