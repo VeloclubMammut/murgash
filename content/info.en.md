@@ -15,7 +15,7 @@ weight: 1
 ### Program
 Sunday, September 23rd
 
-#### 1st Start - Elite
+#### 1st Start - Epic
  - 07.00 h. - Initial instructions and equipment check
  - 07.30 h. - Pre-race briefing
  - 08.00 h. – Start - Buhovo
