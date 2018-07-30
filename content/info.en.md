@@ -72,7 +72,6 @@ Reason: „Murgash 2018”
 If you pay by bank transfer, please present a proof of payment when picking up your race number
 
 ### Race rules:
-*The race adheres to the rules of the UCI (Union Cycliste Internationale).*  
 
 ##### Each participant MUST:
  - wear a helmet and protective gloves
