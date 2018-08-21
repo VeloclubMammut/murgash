@@ -118,5 +118,4 @@ Ranking is individual (1st, 2nd, 3rd) in each category
 
 Prizes will be cash and/or non-monetary prizes from our sponsors:
 
-#### PAVÉ BIKE SHOP, AVITEL, RACE TIMING BG
-
+#### PAVÉ BIKE SHOP, RACE SERIES, PULSE CYCLES, OLIMP, BASECAMP, SHIMANO, ISOSTAR, HOTEL SUNRISE BANSKO, EFFECT, EPAY, EASYPAY, RACE TIMING BG, MTB-BG, VELOCAFE

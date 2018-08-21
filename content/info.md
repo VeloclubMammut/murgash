@@ -118,5 +118,5 @@ IBAN BG51FINV91501014661791
 Класирането е индивидуално по групи.
 Награден фонд: парични и предметни награди осигурени от нашите спонсори: 
 
-#### PAVÉ BIKE SHOP, АВИТЕЛ, RACE TIMING BG
+#### PAVÉ BIKE SHOP, RACE SERIES, PULSE CYCLES, ОЛИМП, BASECAMP, SHIMANO, ISOSTAR, ХОТЕЛ SUNRISE БАНСКО, ЕФЕКТ, EPAY, EASYPAY, RACE TIMING BG, MTB-BG, VELOCAFE
 
