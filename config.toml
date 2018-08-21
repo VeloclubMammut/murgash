@@ -10,7 +10,29 @@ disableRSS = true
     logo = "fa-bicycle"
     copyright = "Велоклуб Мамут 2018"
     title = "Купа Мургаш 2018"
-    description = '<!--[-->Неделя, 23 Септември 2018.  <!--]--><br /><!--[-->С подкрепата на<br /><a href="https://pavebikeshop.com/">PaVé Bike Shop</a>, <a href="http://www.avitel-bg.com/">Авител</a>, <a href="http://www.racetimingbg.com/">Race Timing BG</a><!--]--><br />'
+    description = '
+        <!--[--><b>Неделя, 23 Септември 2018</b>.<br /><!--]-->
+        <!--[--><span style="font-size: small">С подкрепата на:</span> <br />
+            <a target="_blank" href="https://pavebikeshop.com/">PaVé Bike Shop</a>, 
+            <a target="_blank" href="https://www.race-series.com/">Race Series</a>,
+            <a target="_blank" href="https://www.pulse-cycles.com/en/">Pulse Cycles</a>,
+            <a target="_blank" href="http://olimpbg.com/">Олимп</a>,
+            <a target="_blank" href="https://basecamp-shop.com/">Basecamp</a>,
+            <br />
+            <a target="_blank" href="https://bike.shimano.com/en-US/home.html">Shimano</a>,
+            <a target="_blank" href="https://www.isostar.com/">Isostar</a>,
+            <a target="_blank" href="http://www.hotelsunrisebansko.com/">Хотел Sunrise Банско</a>,
+            <a target="_blank" href="http://effect.bg/">Ефект</a>,
+            <a target="_blank" href="https://www.epay.bg/v3main/sale/user/view?saleid=7793633475">EPay</a>,
+            <a target="_blank" href="https://www.easypay.bg/site">EasyPay</a>
+            <!--]-->
+
+        <!--[--><br />
+            <span style="font-size: small">Медийни партньори:</span> <br />
+            <a target="_blank" href="http://www.racetimingbg.com/">Race Timing BG</a>,
+            <a target="_blank" href="http://www.mtb-bg.com/">MTB-BG</a>,
+            <a target="_blank" href="http://www.velocafe.bg/">VeloCafe</a>
+        <!--]-->'
 
 #[[params.social]]
 #  medium = "twitter"
@@ -40,7 +62,30 @@ disableRSS = true
     languageName = "English"
     weight = 2
     title = "Murgash Cup 2018"
-    description = '<!--[-->Sunday, 23 September 2018.  <!--]--><br /><!--[-->Our sponsors:<br /><a href="https://pavebikeshop.com/">PaVé Bike Shop</a>, <a href="http://www.avitel-bg.com/">Avitel</a>, <a href="http://www.racetimingbg.com/">Race Timing BG</a><!--]--><br />'
+    description = '
+        <!--[--><p>Sunday, 23 September 2018.</p><!--]-->
+        <!--[--><span style="font-size: small">Our sponsors:</span> <br />
+            <a target="_blank" href="https://pavebikeshop.com/">PaVé Bike Shop</a>, 
+            <a target="_blank" href="https://www.race-series.com/">Race Series</a>,
+            <a target="_blank" href="https://www.pulse-cycles.com/en/">Pulse Cycles</a>,
+            <a target="_blank" href="http://olimpbg.com/">Olimp</a>,
+            <a target="_blank" href="https://basecamp-shop.com/">Basecamp</a>,
+            <br />
+            <a target="_blank" href="https://bike.shimano.com/en-US/home.html">Shimano</a>,
+            <a target="_blank" href="https://www.isostar.com/">Isostar</a>,
+            <a target="_blank" href="http://www.hotelsunrisebansko.com/">Hotel Sunrise Bansko</a>,
+            <a target="_blank" href="http://effect.bg/">Effect</a>,
+            <a target="_blank" href="https://www.epay.bg/v3main/sale/user/view?saleid=7793633475">EPay</a>,
+            <a target="_blank" href="https://www.easypay.bg/site">EasyPay</a>
+            <!--]-->
+
+        <!--[--><br />
+            <span style="font-size: small">Media partners:</span> <br />
+            <a target="_blank" href="http://www.racetimingbg.com/">Race Timing BG</a>,
+            <a target="_blank" href="http://www.mtb-bg.com/">MTB-BG</a>,
+            <a target="_blank" href="http://www.velocafe.bg/">VeloCafe</a>
+        <!--]-->'
+
     logo = "fa-bicycle"
     copyright = "Veloclub Mammut 2018"
 
