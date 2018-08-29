@@ -55,7 +55,7 @@ Race numbers will be given out at the start in Buhovo only under exceptional cir
 After the race end, the race numbers will be collected by the commissaires. Thank you for your cooperation!
 
 #### Entry Fee:  
- -  until 31.08.2018, 23:59h: **40 BGN**!  
+ -  until 31.08.2018, 23:59h online or 18:59h in PaVé Bike Shop: **40 BGN**!  
  -  from 01.09 until 21.09.2018, 18:59h: **60 BGN**!  
 
 The entry fee includes insurance for the race, mountain rescue, starting package, and support, water, food at the checkpoints. Payment can occur:
