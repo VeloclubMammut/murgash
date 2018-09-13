@@ -21,7 +21,7 @@ Category         | Born From |      To   | Link
 #### Elite (Part of the calendar of BCL)
 Category          | Born From |      To   | Link     
 :-----------------|:---------:|:---------:|-------------:
- Women Juniors U19 (16-18)  | 1.1.2000  | 12.31.2002| [Регистрация](http://www.veloclubmammut.com/murgash-epic-reg)
- Men Juniors U19 (16-18)| 1.1.2000  | 12.31.2002| [Регистрация](http://www.veloclubmammut.com/murgash-epic-reg)
+ Women Juniors U19 (16-18)  | 1.1.2000  | 12.31.2002| [Регистрация](http://www.veloclubmammut.com/murgash-hobby-reg)
+ Men Juniors U19 (16-18)| 1.1.2000  | 12.31.2002| [Регистрация](http://www.veloclubmammut.com/murgash-hobby-reg)
 
 
