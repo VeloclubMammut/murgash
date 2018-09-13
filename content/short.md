@@ -21,7 +21,7 @@ weight: 3
 #### Елит (Кръг от БКЛ)
 Категория         | Родени От |      До   | Регистрация
 :-----------------|:---------:|:---------:|-------------:
- Девойки U19 (16-18)  | 1.1.2000  | 12.31.2002| [Регистрация](http://www.veloclubmammut.com/murgash-epic-reg)
- Юноши U19 (16-18)| 1.1.2000  | 12.31.2002| [Регистрация](http://www.veloclubmammut.com/murgash-epic-reg)
+ Девойки U19 (16-18)  | 1.1.2000  | 12.31.2002| [Регистрация](http://www.veloclubmammut.com/murgash-hobby-reg)
+ Юноши U19 (16-18)| 1.1.2000  | 12.31.2002| [Регистрация](http://www.veloclubmammut.com/murgash-hobby-reg)
 
 
