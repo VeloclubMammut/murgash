@@ -7,7 +7,7 @@ weight: 1
 
 # Murgash Cup
 
-#### The Cross-Country Marathon  (XCM) "Murgash Cup" will take place on the  23.09.2018 /Sunday/, in Buhovo, near Sofia, starting from  08:00 in front of the building of Buhovo Municipality and finish at the same place
+#### The Cross-Country Marathon  (XCM) "Murgash Cup" will take place on the  23.09.2019 /Sunday/, in Buhovo, near Sofia, starting from  08:00 in front of the building of Buhovo Municipality and finish at the same place
 
 ### Organizers
 [Veloclub Mamut](https://www.facebook.com/veloclubmammut), [PaVé Bike Shop and Repair](https://pavebikeshop.com/) with the cooperation of [Sofia Municipality](https://www.sofia.bg/).
@@ -48,15 +48,15 @@ Murgash Peak | 13:00
 
 
 ### Registration
-Online registration closes on 21.09.2018 /Friday/ online.
+Online registration closes on 21.09.2019 /Friday/ online.
 
-Race numbers can be picked up from 17.09.2018,  up to 21.09.2018 19:00h, in **PaVé Bike Shop and Repair**  (address **Sofia, Zlatovrah. Str 50**).  
+Race numbers can be picked up from 17.09.2019,  up to 21.09.2019 19:00h, in **PaVé Bike Shop and Repair**  (address **Sofia, Zlatovrah. Str 50**).  
 Race numbers will be given out at the start in Buhovo only under exceptional circumstances and if you can provide a payment receipt!  
 After the race end, the race numbers will be collected by the commissaires. Thank you for your cooperation!
 
 #### Entry Fee:  
- -  until 31.08.2018, 23:59h online or 18:59h in PaVé Bike Shop: **40 BGN**!  
- -  from 01.09 until 21.09.2018, 18:59h: **60 BGN**!  
+ -  until 31.08.2019, 23:59h online or 18:59h in PaVé Bike Shop: **40 BGN**!  
+ -  from 01.09 until 21.09.2019, 18:59h: **60 BGN**!  
 
 The entry fee includes insurance for the race, mountain rescue, starting package, and support, water, food at the checkpoints. Payment can occur:
 
@@ -67,7 +67,7 @@ The entry fee includes insurance for the race, mountain rescue, starting package
 ```
 IBAN BG51FINV91501014661791
 Recipient: Veloclub Mammut
-Reason: „Murgash 2018”
+Reason: „Murgash 2019”
 ```
 If you pay by bank transfer, please present a proof of payment when picking up your race number
 
