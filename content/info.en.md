@@ -7,7 +7,7 @@ weight: 1
 
 # Murgash Cup
 
-#### The Cross-Country Marathon  (XCM) "Murgash Cup" will take place on the  23.09.2019 /Sunday/, in Buhovo, near Sofia, starting from  08:00 in front of the building of Buhovo Municipality and finish at the same place
+#### The Cross-Country Marathon  (XCM) "Murgash Cup" will take place on the  22.09.2019 /Sunday/, in Buhovo, near Sofia, starting from  08:00 in front of the building of Buhovo Municipality and finish at the same place
 
 ### Organizers
 [Veloclub Mamut](https://www.facebook.com/veloclubmammut), [PaVé Bike Shop and Repair](https://pavebikeshop.com/) with the cooperation of [Sofia Municipality](https://www.sofia.bg/).
