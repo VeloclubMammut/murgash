@@ -1,121 +1,140 @@
 ---
-title: "Information"
+title: "Инфо"
 date: 2017-08-05T08:14:45Z
 draft: false
 weight: 1
 ---
+# КУПА “МУРГАШ”
+#### СЪСТЕЗАНИЕТО ПО ПЛАНИНСКО КОЛОЕЗДЕНЕ В ДИСЦИПЛИНА КРОС КЪНТРИ МАРАТОН (XCM) “КУПА МУРГАШ” ЩЕ СЕ ПРОВЕДЕ НА 22.09.2019 Г. /НЕДЕЛЯ/, В ГР. БУХОВО, ОБЛАСТ СОФИЙСКА. 
 
-# Murgash Cup
+#### СТАРТ ЗА "ЕПИК" В 08:00 часа
 
-#### The Cross-Country Marathon  (XCM) "Murgash Cup" will take place on the  22.09.2019 /Sunday/, in Buhovo, near Sofia, starting from  08:00 in front of the building of Buhovo Municipality and finish at the same place
+#### СТАРТ ЗА "КЛАСИК" И "ПИКНИК" В 10:00 часа  
 
-### Organizers
-[Veloclub Mamut](https://www.facebook.com/veloclubmammut), [PaVé Bike Shop and Repair](https://pavebikeshop.com/) with the cooperation of [Sofia Municipality](https://www.sofia.bg/).
+### ОРГАНИЗАТОРИ
+Велоклуб “Мамут”, PaVé Bike Shop and Repair със съдействето на Столична Община.
 
-### Program
-Sunday, September 23rd
+### ПРОГРАМА НА СЪСТЕЗАНИЕТО
+Неделя, 22 Септември
 
-#### 1st Start - Epic
- - 07.00 h. - Initial instructions and equipment check
- - 07.30 h. - Pre-race briefing
- - 08.00 h. – Start - Buhovo
- - 14.00 h. - Expected time of the first finishers
- - 16.00 h. - Awards ceremony
+#### СТАРТ ЕПИК
+07.00 ч. проверка на номерата и екипировката - участниците трябва да са на старта за проверка /каски, номера, екипировка…т.н./ и инструктаж!
+07.30 ч.- инструктаж
+08.00 ч. – старт – гр.Бухово
+14.00 ч. - финал на най-бързите
+16.00 ч.- награждаване.
+##### КОНТРОЛНИ ВРЕМЕНА:
 
-##### Cutoff Times:
-
-Checkpoint | Time
+Контролен пункт | Час
 ----------------|----
-Start | 08:00  
-Murgash Peak | 13:00 
-Zhelyava village | 15:00
-Climb to Goten peak | 16:00
+Старт | 08:00  
+Връх Мургаш | 13:00 
+с. Желява | 15:00
+разклон вр. Готен | 16:00
 
+#### СТАРТ КЛАСИК
+09.00 ч. проверка на номерата и екипировката - участниците трябва да са на старта за проверка /каски, номера, екипировка…т.н./ и инструктаж!
+09.30 ч.- инструктаж
+10.00 ч. – старт – гр.Бухово
+14.00 ч. - финал на най-бързите
+16.00 ч.- награждаване.
 
-#### 2nd Start - Hobby
- - 09.00 h. - Initial instruction and equipment check
- - 09.30 h. - Pre-race briefing
- - 10.00 h. – Start - Buhovo
- - 14.00 h. - Expected time of the first finishers
- - 16.00 h. - Awards ceremony
+КОНТРОЛНИ ВРЕМЕНА:
 
-##### Cutoff Times:
-
- Checkpoint | Time
+Контролен пункт | Час
 ----------------|----
-Start | 10:00  
-Murgash Peak | 13:00 
+Старт | 08:00  
+Връх Мургаш | 13:00 
 
+#### СТАРТ ПИКНИК
+09.00 ч. проверка на номерата и екипировката - участниците трябва да са на старта за проверка /каски, номера, екипировка…т.н./ и инструктаж!
+09.30 ч.- инструктаж
+10.00 ч. – старт – гр.Бухово
+11.30 ч. - финал на най-бързите
+16.00 ч.- награждаване.
 
-### Registration
-Online registration closes on 21.09.2019 /Friday/ online.
+#### НЯМА КОНТРОЛНО ВРЕМЕ
 
-Race numbers can be picked up from 17.09.2019,  up to 21.09.2019 19:00h, in **PaVé Bike Shop and Repair**  (address **Sofia, Zlatovrah. Str 50**).  
-Race numbers will be given out at the start in Buhovo only under exceptional circumstances and if you can provide a payment receipt!  
-After the race end, the race numbers will be collected by the commissaires. Thank you for your cooperation!
+### РЕГИСТРАЦИЯ
+Всеки желаещ може да се регистрира онлайн до 20.09.2019 /петък/.
 
-#### Entry Fee:  
- -  until 31.08.2019, 23:59h online or 18:59h in PaVé Bike Shop: **40 BGN**!  
- -  from 01.09 until 21.09.2019, 18:59h: **60 BGN**!  
+### РАЗДАВАНЕ НА НОМЕРА
+Номерата ще се раздават от 09.09.2019 Понеделник до 19ч. и в Събота на 21.09.2019 до 16ч., в магазин PaVé Bike Shop and Repair на адрес: София, ул. Златовръх 50.
 
-The entry fee includes insurance for the race, mountain rescue, starting package, and support, water, food at the checkpoints. Payment can occur:
+##### ВСЕКИ ЗАПЛАТИЛ ТАКСА УЧАСТНИК ЩЕ ПОЛУЧИ ИНДИВИДУАЛЕН СТАРТОВ ПАКЕТ, който включва: стартов номер, колоездачна тениска, карта на трасето +важни телефонни номера за връзка, подкрепителни пунктове, ПСС и други малки нещица. 
 
- - Online [(Link to EPay)](https://www.epay.bg/go/7793633475)
- - In **PaVé Bike Shop and Repair** at **Sofia, Zlatovruh Str. 50**
- - Bank transfer:
+Номера на старта ще се раздават само по изключение на регистрирали се и заплатили такса до 21.09.2018 участници, които не живеят в София!
+След финиширането на състезателите номерата ще бъдат събрани! Номерата ще са с чипове за времеизмерване, които ще се използват и в бъдеще. Благодарим!
 
-```
+#### СТАРТОВА ТАКСА:
+25 лева до 23:59ч. онлайн, или 18:59ч. в PaVé Bike Shop на 31.08.2019г. 
+
+40 лева от 01.09 до 18:59. на 20.09.2019:  САМО ЗА КАТЕГОРИИТЕ "ЕПИК" И" КЛАСИК"! Категория "ПИКНИК" остава с такса 25 лв. 
+
+#### ЗАПЛАЩАНЕ НА ТАКСА УЧАСТИЕ:
+
+Онлайн чрез E-Pay:
+
+##### ЗА ПИКНИК https://epaygo.bg/3055249704
+
+##### ЗА ЕПИК или КЛАСИК https://epaygo.bg/2392532715
+
+##### НА МЯСТО:
+В PaVé Bike Shop and Repair на адрес Sofia, Zlatovruh Str. 50
+
+##### ПО БАНКОВ ПЪТ:
+На следната банкова сметка:
 IBAN BG51FINV91501014661791
-Recipient: Veloclub Mammut
-Reason: „Murgash 2019”
-```
-If you pay by bank transfer, please present a proof of payment when picking up your race number
+Сдружение ВелоКлуб Мамут
+на основание – „Мургаш 2018”
+##### Заплатилите по банка да представят платежно нареждане при взимане на номера.
 
-### Race rules:
+### ИЗИСКВАНИЯ КЪМ СЪСТЕЗАТЕЛИТЕ:
+##### ВСЕКИ СЪСТЕЗАТЕЛ Е ДЛЪЖЕН:
+ - да e екипиран с каска и ръкавици  
+ - да e попълнил декларация за физическо здраве и умения с велосипед  
+ - ако не е навършил 18 години - при взимане на състезателния номер да представи писмено съгласие за участие от родител/настойник. Номера се дават само срещу представена декларация!  
+ - да участва с изправен планински велосипед  
+ - да спазва правилника за движение по пътищата  
+ - да спазва стриктно указанията на маршалите и съдиите  
+ - да преминава през всички контролни пунктове (при липса на дори един, резултатът на състезателя не се зачита в класирането)  
+ - да преминава само по маркираното трасе  
+ - да финишира с велосипеда, с който стартира!  
 
-##### Each participant MUST:
- - wear a helmet and protective gloves
- - if under 18 years of age, submit a consent form signed by a parent/guardian
- - participate with a 
- - comply with road traffic regulations
- - comply with instructions given by the race commissaires
- - pass through all checkpoints (failure leads to automatic disqualification)  
- - follow the race markings
- - finish the race with the same bicycle with which they started  
+Силно препоръчително е състезателите да носят в себе си мобилен телефон със заредени батерии за връзка в случай на необходимост.
 
-We highly recommend that the participants carry a charged mobile phone during the race, in case of emergency!
+### МАРШРУТИ
+##### МУРГАШ ЕПИК- 76КМ. 3300М. ПОЛОЖИТЕЛНА ДЕНИВЕЛАЦИЯ.
+По този маршрут ще вземат участие категориите: Мъже, Жени, Ветерани
 
-### Routes
- 
-#### Murgash Epic- 76km. 3300m. climb
-Eligible categories: Men Elite, Women Elite, Men Masters
+##### ВКЛЮЧВА 5 /ПЕТ/ ИЗКАЧВАНИЯ:
+ -          Вр. Мургаш - дължина 17км., 1000м денивелация.
+ -          Потоп - дължина 4,5км., 400м. денивелация
+ -          Желява - дължина 6км., 600м. денивелация
+ -          Желява II - дължина 4км., 400м. денивелация
+ -          Готен - дължина 5км., 500м. денивелация
 
-##### Includes 5 /five/ major climbs
- -          Murgash Peak - 17km., 1000m. climb.
- -          Potop village -  4,5km., 400m. climb
- -          Zhelyava village - 6km., 600m. climb
- -          Zhelyava village II - 4km., 400m. climb
- -          Goten Peak - 5km., 500m. climb
+Маршрутът е подходящ за добре подготвени любители и състезатели.
 
-This route is only recommended for well prepared cyclists experienced in XCM Marathon races
- 
-#### Murgash - 45km. 1500м., climb
-Eligible categories: Men Hobby, Women Hobby, Juniors
- 
-##### Includes 1 /one/ major climb:
- -          Murgash Peak - 17km., 1000m. climb.
+##### МУРГАШ КЛАСИК- 45КМ. 1500М., ПОЛОЖИТЕЛНА ДЕНИВЕЛАЦИЯ
+По този маршрут ще вземат участие категориите : Мъже, Жени, Юноши младша възраст, Девойки
 
-Despite having a single large climb, there is a 17km very fast descent followed by a 10km hilly ride to the finish.
+###### ВКЛЮЧВА 1/ЕДНО ИЗКАЧВАНЕ:
+Вр. Мургаш- дължина 17км., 1000м денивелация.
+Въпреки, че е по-кратък маршрут, 17 километровото спускане от върха ще ви отведе на 10км от финала, които включват предизвикателни хълмове и дерета за преодоляване.
 
-This route is recommended for well prepared hobby cyclists
+Маршрутът е подходящ за средно и добре подготвени любители.
 
+##### МУРГАШ ПИКНИК - 19 КМ. 700М. ПОЛОЖИТЕЛНА ДЕНИВЕЛАЦИЯ
+По този маршрут ще вземат участие категориите : Мъже, Жени, Юноши младша възраст, Девойки, Деца с придружител 
 
+###### ВКЛЮЧВА 1 ИЗКАЧВАНЕ :
+9.9 км изкачване, следва спускане, което започва в началото на добре познатата Желявска пътечка и няколко предизвикателни хълмчета и дерета за преодоляване. 
 
-The organizers reserve the right to make changes to the routes if deemed necessary
+Организаторът си запазва правото да извършва промени по маршрутите!
 
-### Ranking and prizes:
-Ranking is individual (1st, 2nd, 3rd) in each category
+### КЛАСИРАНЕ И НАГРАДИ:
+Класирането е индивидуално по групи. Награден фонд: парични и предметни награди осигурени от нашите спонсори:
 
-Prizes will be cash and/or non-monetary prizes from our sponsors:
+#### PAVÉ BIKE SHOP, RACE SERIES, ОЛИМП, SHIMANO, ISOSTAR, ХОТЕЛ SUNRISE БАНСКО, ЕФЕКТ, STROYRENT, SIEMENS, SHIMSNO, БАНКЯ, SUPPA, EPAY, EASYPAY, RACE TIMING BG, MTB-BG, VELOCAFE
 
-#### PAVÉ BIKE SHOP, RACE SERIES, PULSE CYCLES, OLIMP, BASECAMP, SHIMANO, ISOSTAR, HOTEL SUNRISE BANSKO, EFFECT, EPAY, EASYPAY, RACE TIMING BG, MTB-BG, VELOCAFE
