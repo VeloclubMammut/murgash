@@ -12,7 +12,7 @@ disableRSS = true
     title = "Купа Мургаш 2019"
     description = '
         <!--[--><b>Неделя, 22 Септември 2019</b>.<br /><!--]-->
-<b><a href="https://siemens.bg/">Генерален спонсор: Siemens</a></b><br />
+<b><a href="http://siemens.bg/">Генерален спонсор: Siemens</a></b><br />
         <!--[--><span style="font-size: small">С подкрепата на:</span> <br />
             <a target="_blank" href="https://pavebikeshop.com/">PaVé Bike Shop</a>,
             <a target="_blank" href="https://www.race-series.com/">Race Series</a>,
@@ -31,6 +31,7 @@ disableRSS = true
         <!--[--><br />
             <span style="font-size: small">Медийни партньори:</span> <br />
             <a target="_blank" href="http://www.racetimingbg.com/">Race Timing BG</a>,
+            <a target="_blank" href="http://crankarm.eu/cup_murgash/">Велоклуб Курбел</a>,
             <a target="_blank" href="http://www.mtb-bg.com/">MTB-BG</a>,
             <a target="_blank" href="http://www.velocafe.bg/">VeloCafe</a>
         <!--]-->'
@@ -65,7 +66,7 @@ disableRSS = true
     title = "Murgash Cup 2019"
     description = '
         <!--[--><p>Sunday, 22 September 2019.</p><!--]-->
-        <b><a href="https://siemens.bg">General Sponsor: Siemens</a></b><br />
+        <b><a href="http://siemens.bg">General Sponsor: Siemens</a></b><br />
         <!--[--><span style="font-size: small">Our sponsors:</span> <br />
             <a target="_blank" href="https://pavebikeshop.com/">PaVé Bike Shop</a>,
             <a target="_blank" href="https://www.race-series.com/">Race Series</a>,
@@ -84,6 +85,7 @@ disableRSS = true
         <!--[--><br />
             <span style="font-size: small">Media partners:</span> <br />
             <a target="_blank" href="http://www.racetimingbg.com/">Race Timing BG</a>,
+            <a target="_blank" href="http://crankarm.eu/cup_murgash/">Veloclub Kurbel</a>,
             <a target="_blank" href="http://www.mtb-bg.com/">MTB-BG</a>,
             <a target="_blank" href="http://www.velocafe.bg/">VeloCafe</a>
         <!--]-->'
