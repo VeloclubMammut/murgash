@@ -1,8 +1,8 @@
 ---
 title: "Регистрация Епик"
 date: 2019-06-16T08:14:45Z
-draft: true
-expiryDate: 2019-09-23T20:59:45Z
+draft: false
+expiryDate: 2019-09-20T20:59:45Z
 weight: 4
 ---
 
@@ -18,7 +18,7 @@ weight: 4
 #### Елит (Кръг от БКЛ https://race-series.com/)
 | Категория         | Родени От |      До   | Регистрация
 :-----------------|:---------:|:---------:|------------:
- Жени елит (19+)  |     *     | 12.31.1998| [Регистрация](http://www.veloclubmammut.com/murgash-epic-reg)
- Мъже елит (19+)  | 1.1.1979  | 12.31.1999| [Регистрация](http://www.veloclubmammut.com/murgash-epic-reg)
- Ветерани  (40+)  |     *     | 12.31.1977| [Регистрация](http://www.veloclubmammut.com/murgash-epic-reg)
+ Жени елит (19+)  |     *     | 12.31.2000| [Регистрация](http://www.veloclubmammut.com/murgash-epic-reg)
+ Мъже елит (19+)  | 1.1.1979  | 12.31.2000| [Регистрация](http://www.veloclubmammut.com/murgash-epic-reg)
+ Ветерани  (40+)  |     *     | 12.31.1978| [Регистрация](http://www.veloclubmammut.com/murgash-epic-reg)
 

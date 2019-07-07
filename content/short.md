@@ -2,7 +2,7 @@
 title: "Регистрация Хоби"
 date: 2017-08-05T08:14:45Z
 draft: false
-expiryDate: 2019-09-20:59:45Z
+expiryDate: 2019-09-20T20:59:45Z
 weight: 3
 ---
 
@@ -16,13 +16,13 @@ weight: 3
 #### Хоби
 Категория         | Родени От |      До   | Регистрация     
 :-----------------|:---------:|:---------:|:-----------:
- Мъже хоби (19+)  |     *     | 12.31.2002| [Регистрация](http://www.veloclubmammut.com/murgash-hobby-reg)
- Жени хоби (19+)  |     *     | 12.31.1999| [Регистрация](http://www.veloclubmammut.com/murgash-hobby-reg)
+ Мъже хоби (19+)  |     *     | 12.31.2000| [Регистрация](http://www.veloclubmammut.com/murgash-classic-reg)
+ Жени хоби (19+)  |     *     | 12.31.2000| [Регистрация](http://www.veloclubmammut.com/murgash-classic-reg)
 
 #### Елит (Кръг от БКЛ)
 Категория         | Родени От |      До   | Регистрация
 :-----------------|:---------:|:---------:|-------------:
- Девойки U19 (16-18)  | 1.1.2000  | 12.31.2002| [Регистрация](http://www.veloclubmammut.com/murgash-hobby-reg)
- Юноши U19 (16-18)| 1.1.2000  | 12.31.2002| [Регистрация](http://www.veloclubmammut.com/murgash-hobby-reg)
+ Девойки U19 (16-18)  | 1.1.2001  | 12.31.2003| [Регистрация](http://www.veloclubmammut.com/murgash-classic-reg)
+ Юноши U19 (16-18)| 1.1.2001  | 12.31.2003| [Регистрация](http://www.veloclubmammut.com/murgash-classic-reg)
 
 
