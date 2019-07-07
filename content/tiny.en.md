@@ -16,6 +16,6 @@ weight: 3
 #### Hobby
 Category         | Born From |      To   | Link     
 :-----------------|:---------:|:---------:|:-----------:
- Men Hobby (19+)  |     *     | 12.31.2003| [Register](http://www.veloclubmammut.com/murgash-picnic-reg)
- Women Hobby (19+)|     *     | 12.31.2000| [Register](http://www.veloclubmammut.com/murgash-picnic-reg)
+ Men Hobby (16+)  |     *     | 12.31.2003| [Register](http://www.veloclubmammut.com/murgash-picnic-reg)
+ Women Hobby (16+)|     *     | 12.31.2003| [Register](http://www.veloclubmammut.com/murgash-picnic-reg)
 
