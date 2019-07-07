@@ -2,7 +2,7 @@
 title: "Info"
 date: 2017-08-05T08:14:45Z
 draft: false
-weight: 1
+weight: 3
 ---
 # КУПА “МУРГАШ”
 #### СЪСТЕЗАНИЕТО ПО ПЛАНИНСКО КОЛОЕЗДЕНЕ В ДИСЦИПЛИНА КРОС КЪНТРИ МАРАТОН (XCM) “КУПА МУРГАШ” ЩЕ СЕ ПРОВЕДЕ НА 22.09.2019 Г. /НЕДЕЛЯ/, В ГР. БУХОВО, ОБЛАСТ СОФИЙСКА. 
@@ -136,5 +136,5 @@ weight: 1
 ### КЛАСИРАНЕ И НАГРАДИ:
 Класирането е индивидуално по групи. Награден фонд: парични и предметни награди осигурени от нашите спонсори:
 
-#### PAVÉ BIKE SHOP, RACE SERIES, ОЛИМП, SHIMANO, ISOSTAR, ХОТЕЛ SUNRISE БАНСКО, ЕФЕКТ, STROYRENT, SIEMENS, SHIMSNO, БАНКЯ, SUPPA, EPAY, EASYPAY, RACE TIMING BG, ВЕЛОКЛУБ КУРБЕЛ, MTB-BG, VELOCAFE
+#### PAVÉ BIKE SHOP, RACE SERIES, ОЛИМП, SHIMANO, ISOSTAR, ЕФЕКТ, STROYRENT, SIEMENS, SHIMАNO, БАНКЯ, SUPPA, EPAY, EASYPAY, RACE TIMING BG, ВЕЛОКЛУБ КУРБЕЛ, MTB-BG, VELOCAFE
 
