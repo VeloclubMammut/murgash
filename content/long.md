@@ -3,7 +3,7 @@ title: "Регистрация Епик"
 date: 2019-06-16T08:14:45Z
 draft: false
 expiryDate: 2019-09-20T20:59:45Z
-weight: 4
+weight: 6
 ---
 
 ## 76км, 3300м изкачване
