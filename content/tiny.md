@@ -16,5 +16,9 @@ weight: 1
 #### Пикник
 Категория         | Родени От |      До   | Регистрация     
 :-----------------|:---------:|:---------:|:-----------:
- Мъже Хоби (16+)  |     *     | 12.31.2003| [Регистрация](http://www.veloclubmammut.com/murgash-picnic-reg)
- Жени Хоби  (16+) |     *     | 12.31.2003| [Регистрация](http://www.veloclubmammut.com/murgash-picnic-reg)
+ Мъже, юноши пикник (19+)  |     *     | 12.31.2000| [Регистрация](http://www.veloclubmammut.com/murgash-picnic-reg)
+ Жени, девойки пикник  (19+) |     *     | 12.31.2000| [Регистрация](http://www.veloclubmammut.com/murgash-picnic-reg)
+ Юноши (12-18)  | 1.1.2001  | 12.31.2007| [Регистрация](http://www.veloclubmammut.com/murgash-picnic-reg)
+ Девойки (12-18)| 1.1.2001  | 12.31.2007| [Регистрация](http://www.veloclubmammut.com/murgash-picnic-reg)
+
+
