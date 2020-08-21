@@ -1,5 +1,5 @@
 baseurl = "http://murgash.veloclubmammut.com/"
-title = "Купа Мургаш 2019"
+title = "Купа Мургаш 2020"
 theme = "dimension"
 languageCode = "en-us"
 defaultContentLanguage = "bg"
@@ -8,10 +8,10 @@ disableRSS = true
 
 [params]
     logo = "fa-bicycle"
-    copyright = "Велоклуб Мамут 2019"
-    title = "Купа Мургаш 2019"
+    copyright = "Велоклуб Мамут 2020"
+    title = "Купа Мургаш 2020"
     description = '
-        <!--[--><b>Неделя, 20 Октомври 2019</b>.<br /><!--]-->
+        <!--[--><b>Неделя, 27 Септември 2020</b>.<br /><!--]-->
 <b><a href="http://siemens.bg/">Генерален спонсор: Siemens</a></b><br />
         <!--[--><span style="font-size: small">С подкрепата на:</span> <br />
             <a target="_blank" href="https://pavebikeshop.com/">PaVé Bike Shop</a>,
@@ -61,9 +61,9 @@ disableRSS = true
   [languages.en]
     languageName = "English"
     weight = 2
-    title = "Murgash Cup 2019"
+    title = "Murgash Cup 2020"
     description = '
-        <!--[--><p>Sunday, 20 October 2019.</p><!--]-->
+        <!--[--><p>Sunday, 27 September 2020.</p><!--]-->
         <b><a href="http://siemens.bg">General Sponsor: Siemens</a></b><br />
         <!--[--><span style="font-size: small">Our sponsors:</span> <br />
             <a target="_blank" href="https://pavebikeshop.com/">PaVé Bike Shop</a>,
@@ -89,6 +89,6 @@ disableRSS = true
         <!--]-->'
 
     logo = "fa-bicycle"
-    copyright = "Veloclub Mammut 2019"
+    copyright = "Veloclub Mammut 2020"
 
 
