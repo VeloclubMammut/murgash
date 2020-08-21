@@ -3,7 +3,7 @@ title: "Регистрация Пикник"
 date: 2017-08-05T08:14:45Z
 draft: false
 expiryDate: 2012-9-26T00:00:00Z
-weight: 0
+weight: 1
 ---
 
 ## 19км, 700м изкачване
