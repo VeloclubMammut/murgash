@@ -18,7 +18,7 @@ weight: 6
 #### Елит (Кръг от БКЛ https://race-series.com/)
 | Категория         | Родени От |      До   | Регистрация
 :-----------------|:---------:|:---------:|------------:
- Жени елит (19+)  |     *     | 12.31.2001| [Регистрация](http://www.veloclubmammut.com/murgash-epic-reg)
- Мъже елит (19+)  | 1.1.1980  | 12.31.2001| [Регистрация](http://www.veloclubmammut.com/murgash-epic-reg)
- Ветерани  (40+)  |     *     | 12.31.1979| [Регистрация](http://www.veloclubmammut.com/murgash-epic-reg)
+ Жени елит (19+)  |     *     | 12.31.2001| [Регистрация](https://forms.gle/REuUZ1MmUXCuZ9EKA)
+ Мъже елит (19+)  | 1.1.1980  | 12.31.2001| [Регистрация](https://forms.gle/REuUZ1MmUXCuZ9EKA)
+ Ветерани  (40+)  |     *     | 12.31.1979| [Регистрация](https://forms.gle/REuUZ1MmUXCuZ9EKA)
 
