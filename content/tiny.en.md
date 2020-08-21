@@ -16,8 +16,8 @@ weight: 3
 #### Picnic
 Category         | Born From |      To   | Link     
 :-----------------|:---------:|:---------:|:-----------:
- Men, Juniors Picnic (12+)  |     *     | 12.31.2001| [Register](http://www.veloclubmammut.com/murgash-picnic-reg)
- Women, Juniors Picnic (12+)|     *     | 12.31.2001| [Register](http://www.veloclubmammut.com/murgash-picnic-reg)
- Men Juniors (12-18)  | 1.1.2002  | 12.31.2008| [Register](http://www.veloclubmammut.com/murgash-picnic-reg)
- Women Juniors (12-18)| 1.1.2002  | 12.31.2008| [Register](http://www.veloclubmammut.com/murgash-picnic-reg)
+ Men, Juniors Picnic (12+)  |     *     | 12.31.2001| [Register](https://forms.gle/WhFRzTo8HHJU92gE8)
+ Women, Juniors Picnic (12+)|     *     | 12.31.2001| [Register](https://forms.gle/WhFRzTo8HHJU92gE8)
+ Men Juniors (12-18)  | 1.1.2002  | 12.31.2008| [Register](https://forms.gle/WhFRzTo8HHJU92gE8)
+ Women Juniors (12-18)| 1.1.2002  | 12.31.2008| [Register](https://forms.gle/WhFRzTo8HHJU92gE8)
 
