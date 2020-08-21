@@ -10,7 +10,7 @@ disableRSS = true
     logo = "fa-bicycle"
     copyright = "Велоклуб Мамут 2020"
     title = "Купа Мургаш 2020"
-    description = """
+    description = '''
         <!--[--><b>Неделя, 27 Септември 2020</b>.<br /><!--]-->
 <b><a href="http://siemens.bg/">Генерален спонсор: Siemens</a></b><br />
         <!--[--><span style="font-size: small">С подкрепата на:</span> <br />
@@ -32,7 +32,7 @@ disableRSS = true
             <a target="_blank" href="http://crankarm.eu/cup_murgash/">Велоклуб Курбел</a>,
             <a target="_blank" href="http://www.mtb-bg.com/">MTB-BG</a>,
             <a target="_blank" href="http://www.velocafe.bg/">VeloCafe</a>
-        <!--]-->"""
+        <!--]-->'''
 
 #[[params.social]]
 #  medium = "twitter"
