@@ -72,7 +72,7 @@
 		// Methods.
 			$main._show = function(id, initial) {
 
-				var $article = $main_articles.filter('#' + id);
+				var $article = $main_articles.filter(document.getElementById(decodeURIComponent(id)));
 
 				// No such article? Bail.
 					if ($article.length == 0)
@@ -349,7 +349,7 @@
 					}
 
 				// Otherwise, check for a matching article.
-					else if ($main_articles.filter(location.hash).length > 0) {
+					else if ($main_articles.filter(document.getElementById(decodeURIComponent(location.hash.substr(1)))).length > 0) {
 
 						// Prevent default.
 							event.preventDefault();
