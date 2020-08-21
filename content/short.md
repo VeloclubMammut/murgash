@@ -16,13 +16,13 @@ weight: 7
 #### класик
 Категория         | Родени От |      До   | Регистрация     
 :-----------------|:---------:|:---------:|:-----------:
- Мъже класик (19+)  |     *     | 12.31.2000| [Регистрация](http://www.veloclubmammut.com/murgash-classic-reg)
- Жени класик (19+)  |     *     | 12.31.2000| [Регистрация](http://www.veloclubmammut.com/murgash-classic-reg)
+ Мъже класик (19+)  |     *     | 12.31.2001| [Регистрация](http://www.veloclubmammut.com/murgash-classic-reg)
+ Жени класик (19+)  |     *     | 12.31.2001| [Регистрация](http://www.veloclubmammut.com/murgash-classic-reg)
 
 #### Елит (Кръг от БКЛ)
 Категория         | Родени От |      До   | Регистрация
 :-----------------|:---------:|:---------:|-------------:
- Девойки U19 (16-18)  | 1.1.2001  | 12.31.2003| [Регистрация](http://www.veloclubmammut.com/murgash-classic-reg)
- Юноши U19 (16-18)| 1.1.2001  | 12.31.2003| [Регистрация](http://www.veloclubmammut.com/murgash-classic-reg)
+ Девойки U19 (16-18)  | 1.1.2002  | 12.31.2004| [Регистрация](http://www.veloclubmammut.com/murgash-classic-reg)
+ Юноши U19 (16-18)| 1.1.2002  | 12.31.2004| [Регистрация](http://www.veloclubmammut.com/murgash-classic-reg)
 
 
