@@ -16,13 +16,13 @@ weight: 7
 #### Classic
 Category         | Born From |      To   | Link     
 :-----------------|:---------:|:---------:|:-----------:
- Men Classic (19+)  |     *     | 12.31.2001| [Регистрация](http://www.veloclubmammut.com/murgash-classic-reg)
- Women Classic (19+)|     *     | 12.31.2001| [Регистрация](http://www.veloclubmammut.com/murgash-classic-reg)
+ Men Classic (19+)  |     *     | 12.31.2001| [Регистрация](https://forms.gle/Ufe4Yf4PwDqKzxRZ8 )
+ Women Classic (19+)|     *     | 12.31.2001| [Регистрация](https://forms.gle/Ufe4Yf4PwDqKzxRZ8 )
 
 #### Elite (Part of the calendar of BCL)
 Category          | Born From |      To   | Link     
 :-----------------|:---------:|:---------:|-------------:
- Women Juniors U19 (16-18)  | 1.1.2002  | 12.31.2004| [Регистрация](http://www.veloclubmammut.com/murgash-classic-reg)
- Men Juniors U19 (16-18)| 1.1.2002  | 12.31.2004| [Регистрация](http://www.veloclubmammut.com/murgash-classic-reg)
+ Women Juniors U19 (16-18)  | 1.1.2002  | 12.31.2004| [Регистрация](https://forms.gle/Ufe4Yf4PwDqKzxRZ8 )
+ Men Juniors U19 (16-18)| 1.1.2002  | 12.31.2004| [Регистрация](https://forms.gle/Ufe4Yf4PwDqKzxRZ8 )
 
 
