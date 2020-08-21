@@ -18,7 +18,7 @@ weight: 4
 #### Elite (Part of the calendar of BCL https://race-series.com/)
 Category         | Born From |      To   | Link
 :-----------------|:---------:|:---------:|------------:
- Women Elite (19+)  |     *     | 12.31.2001| [Регистрация](http://www.veloclubmammut.com/murgash-epic-reg)
- Men Elite (19+)  | 1.1.1980  | 12.31.2001| [Регистрация](http://www.veloclubmammut.com/murgash-epic-reg)
- Men Masters  (40+)  |     *     | 12.31.1979| [Регистрация](http://www.veloclubmammut.com/murgash-epic-reg)
+ Women Elite (19+)  |     *     | 12.31.2001| [Регистрация](https://forms.gle/REuUZ1MmUXCuZ9EKA)
+ Men Elite (19+)  | 1.1.1980  | 12.31.2001| [Регистрация](https://forms.gle/REuUZ1MmUXCuZ9EKA)
+ Men Masters  (40+)  |     *     | 12.31.1979| [Регистрация](https://forms.gle/REuUZ1MmUXCuZ9EKA)
 
