@@ -1,7 +1,7 @@
 ---
-title: "Регистрация класик"
+_title: "Регистрация класик"
 date: 2017-08-05T08:14:45Z
-draft: false
+draft: true
 expiryDate: 2020-9-26T00:00:00Z
 weight: 2
 ---

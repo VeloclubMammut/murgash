@@ -1,7 +1,7 @@
 ---
-title: "Регистрация Пикник"
+_title: "Регистрация Пикник"
 date: 2017-08-05T08:14:45Z
-draft: false
+draft: true
 expiryDate: 2012-9-26T00:00:00Z
 weight: 1
 ---
