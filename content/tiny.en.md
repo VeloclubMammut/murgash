@@ -1,5 +1,5 @@
 ---
-_title: "Picnic"
+title: "Picnic"
 date: 2017-08-05T08:14:45Z
 draft: true
 expiryDate: 2020-09-25T20:59:45Z
