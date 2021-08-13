@@ -18,7 +18,7 @@ weight: 3
 #### Елит (Кръг от БКЛ https://race-series.com/)
 | Категория         | Родени От |      До   | Регистрация
 :-----------------|:---------:|:---------:|------------:
- Жени елит (19+)  |     *     | 12.31.2001| [Регистрация](https://forms.gle/REuUZ1MmUXCuZ9EKA)
- Мъже елит (19+)  | 1.1.1980  | 12.31.2001| [Регистрация](https://forms.gle/REuUZ1MmUXCuZ9EKA)
- Ветерани  (40+)  |     *     | 12.31.1979| [Регистрация](https://forms.gle/REuUZ1MmUXCuZ9EKA)
+ Жени елит (19+)  |     *     | 12.31.2002| [Регистрация](https://forms.gle/REuUZ1MmUXCuZ9EKA)
+ Мъже елит (19+)  | 1.1.1981  | 12.31.2002| [Регистрация](https://forms.gle/REuUZ1MmUXCuZ9EKA)
+ Ветерани  (40+)  |     *     | 12.31.1980| [Регистрация](https://forms.gle/REuUZ1MmUXCuZ9EKA)
 
