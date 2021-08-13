@@ -2,7 +2,7 @@
 title: "Picnic"
 date: 2017-08-05T08:14:45Z
 draft: true
-expiryDate: 2020-09-25T20:59:45Z
+expiryDate: 2021-09-25T20:59:45Z
 weight: 3
 ---
 
@@ -16,8 +16,8 @@ weight: 3
 #### Picnic
 Category         | Born From |      To   | Link     
 :-----------------|:---------:|:---------:|:-----------:
- Men, Juniors Picnic (12+)  |     *     | 12.31.2001| [Register](https://forms.gle/WhFRzTo8HHJU92gE8)
- Women, Juniors Picnic (12+)|     *     | 12.31.2001| [Register](https://forms.gle/WhFRzTo8HHJU92gE8)
- Men Juniors (12-18)  | 1.1.2002  | 12.31.2008| [Register](https://forms.gle/WhFRzTo8HHJU92gE8)
- Women Juniors (12-18)| 1.1.2002  | 12.31.2008| [Register](https://forms.gle/WhFRzTo8HHJU92gE8)
+ Men, Juniors Picnic (12+)  |     *     | 12.31.2002| [Register](https://forms.gle/WhFRzTo8HHJU92gE8)
+ Women, Juniors Picnic (12+)|     *     | 12.31.2002| [Register](https://forms.gle/WhFRzTo8HHJU92gE8)
+ Men Juniors (12-18)  | 1.1.2003  | 12.31.2009| [Register](https://forms.gle/WhFRzTo8HHJU92gE8)
+ Women Juniors (12-18)| 1.1.2003  | 12.31.2009| [Register](https://forms.gle/WhFRzTo8HHJU92gE8)
 
