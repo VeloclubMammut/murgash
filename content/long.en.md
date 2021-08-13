@@ -19,6 +19,6 @@ weight: 4
 Category         | Born From |      To   | Link
 :-----------------|:---------:|:---------:|------------:
  Women Elite (19+)  |     *     | 12.31.2002| [Регистрация](https://forms.gle/REuUZ1MmUXCuZ9EKA)
- Men Elite (19+)  | 1.1.1980  | 12.31.2002| [Регистрация](https://forms.gle/REuUZ1MmUXCuZ9EKA)
+ Men Elite (19+)  | 1.1.1981  | 12.31.2002| [Регистрация](https://forms.gle/REuUZ1MmUXCuZ9EKA)
  Men Masters  (40+)  |     *     | 12.31.1980| [Регистрация](https://forms.gle/REuUZ1MmUXCuZ9EKA)
 
