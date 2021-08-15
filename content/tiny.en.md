@@ -1,7 +1,7 @@
 ---
 title: "Picnic"
 date: 2017-08-05T08:14:45Z
-draft: true
+draft: false
 expiryDate: 2021-09-25T20:59:45Z
 weight: 3
 ---
@@ -13,11 +13,16 @@ weight: 3
 
 
 ### Categories
+#### Elite (National XCM Championships https://race-series.com/)
+Category         | Born From |      To   | Link     
+:-----------------|:---------:|:---------:|:-----------:
+ Junior Boys U15 (12-14)   | 1.1.2007  | 12.31.2008| [Register](https://forms.gle/smN5Y3T3Qd7m2TYCA)
+ Junior Girls U15 (12-14) | 1.1.2007  | 12.31.2008| [Register](https://forms.gle/smN5Y3T3Qd7m2TYCA)
+ Junior Boys U17 (15-16)   | 1.1.2005  | 12.31.2006| [Register](https://forms.gle/smN5Y3T3Qd7m2TYCA)
+ Junior Girls U17 (15-16) | 1.1.2005  | 12.31.2006| [Register](https://forms.gle/smN5Y3T3Qd7m2TYCA)
 #### Picnic
 Category         | Born From |      To   | Link     
 :-----------------|:---------:|:---------:|:-----------:
- Men, Juniors Picnic (12+)  |     *     | 12.31.2002| [Register](https://forms.gle/WhFRzTo8HHJU92gE8)
- Women, Juniors Picnic (12+)|     *     | 12.31.2002| [Register](https://forms.gle/WhFRzTo8HHJU92gE8)
- Men Juniors (12-18)  | 1.1.2003  | 12.31.2009| [Register](https://forms.gle/WhFRzTo8HHJU92gE8)
- Women Juniors (12-18)| 1.1.2003  | 12.31.2009| [Register](https://forms.gle/WhFRzTo8HHJU92gE8)
+ Hobby Men Picnic (19+)  |     *     | 12.31.2002| [Register](https://forms.gle/smN5Y3T3Qd7m2TYCA)
+ Hobbu Women Picnic  (19+) |     *     | 12.31.2002| [Register](https://forms.gle/smN5Y3T3Qd7m2TYCA)#### Picnic
 

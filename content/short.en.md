@@ -1,8 +1,8 @@
 ---
 title: "Classic"
 date: 2017-08-05T08:14:45Z
-draft: true
-expiryDate: 2020-09-25T20:59:45Z
+draft: false
+expiryDate: 2021-09-25T20:59:45Z
 weight: 7
 ---
 
@@ -16,13 +16,17 @@ weight: 7
 #### Classic
 Category         | Born From |      To   | Link     
 :-----------------|:---------:|:---------:|:-----------:
- Men Classic (19+)  |     *     | 12.31.2001| [Регистрация](https://forms.gle/Ufe4Yf4PwDqKzxRZ8 )
- Women Classic (19+)|     *     | 12.31.2001| [Регистрация](https://forms.gle/Ufe4Yf4PwDqKzxRZ8 )
+ Мъже класик (19+)  |     *     | 12.31.2002| [Register](https://forms.gle/VdwnRV3h25QuY5bE9 )
+ Жени класик (19+)  |     *     | 12.31.2002| [Register](https://forms.gle/VdwnRV3h25QuY5bE9 )
+ Мъже ветерани (40+)  |     *     | 12.31.1981| [Register](https://forms.gle/VdwnRV3h25QuY5bE9 )
+ Жени ветерани (40+)  |     *     | 12.31.1981| [Register](https://forms.gle/VdwnRV3h25QuY5bE9 )
+ Е-байк             |     *     |     *     | [Register](https://forms.gle/VdwnRV3h25QuY5bE9 )
+
 
 #### Elite (Part of the calendar of BCL)
 Category          | Born From |      To   | Link     
 :-----------------|:---------:|:---------:|-------------:
- Women Juniors U19 (16-18)  | 1.1.2002  | 12.31.2004| [Регистрация](https://forms.gle/Ufe4Yf4PwDqKzxRZ8 )
- Men Juniors U19 (16-18)| 1.1.2002  | 12.31.2004| [Регистрация](https://forms.gle/Ufe4Yf4PwDqKzxRZ8 )
+ Девойки U19 (17-18)  | 1.1.2003  | 12.31.2004| [Register](https://forms.gle/VdwnRV3h25QuY5bE9 )
+ Юноши U19 (17-18)| 1.1.2003  | 12.31.2004| [Register](https://forms.gle/VdwnRV3h25QuY5bE9 )
 
 

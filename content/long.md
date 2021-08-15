@@ -1,8 +1,8 @@
 ---
 title: "Регистрация Епик"
 date: 2019-06-16T08:14:45Z
-draft: true
-expiryDate: 2020-9-26T00:00:00Z
+draft: false
+expiryDate: 2021-09-25T20:59:45Z
 weight: 3
 ---
 
@@ -15,10 +15,13 @@ weight: 3
 
 ### Категории
 
-#### Елит (Кръг от БКЛ https://race-series.com/)
+#### Елит (Държавен шампионат XCM)
 | Категория         | Родени От |      До   | Регистрация
 :-----------------|:---------:|:---------:|------------:
- Жени елит (19+)  |     *     | 12.31.2002| [Регистрация](https://forms.gle/REuUZ1MmUXCuZ9EKA)
- Мъже елит (19+)  | 1.1.1981  | 12.31.2002| [Регистрация](https://forms.gle/REuUZ1MmUXCuZ9EKA)
- Ветерани  (40+)  |     *     | 12.31.1980| [Регистрация](https://forms.gle/REuUZ1MmUXCuZ9EKA)
+ Жени U23 (19-22)  | 1.1.1999  | 12.31.2002| [Регистрация](https://forms.gle/ei69dnTeQJvmPHqL9)
+ Мъже U23 (19-22)  | 1.1.1999  | 12.31.2002| [Регистрация](https://forms.gle/ei69dnTeQJvmPHqL9)
+ Жени елит (23-39) | 1.1.1982  | 12.31.1998| [Регистрация](https://forms.gle/ei69dnTeQJvmPHqL9)
+ Мъже елит (23-39) | 1.1.1982  | 12.31.1998| [Регистрация](https://forms.gle/ei69dnTeQJvmPHqL9)
+ Мъже ветерани  (40+)   |     *     | 12.31.1981| [Регистрация](https://forms.gle/ei69dnTeQJvmPHqL9)
+ Жени ветерани  (40+)   |     *     | 12.31.1981| [Регистрация](https://forms.gle/ei69dnTeQJvmPHqL9)
 
