@@ -1,5 +1,5 @@
 baseurl = "http://murgash.veloclubmammut.com/"
-title = "Купа Мургаш 2020"
+title = "Купа Мургаш 2021"
 theme = "dimension"
 languageCode = "en-us"
 defaultContentLanguage = "bg"
@@ -8,10 +8,10 @@ disableRSS = true
 
 [params]
     logo = "fa-bicycle"
-    copyright = "Велоклуб Мамут 2020"
-    title = "Купа Мургаш 2020"
+    copyright = "Велоклуб Мамут 2021"
+    title = "Купа Мургаш 2021"
     description = '''
-        <!--[--><b>Неделя, 27 Септември 2020</b>.<br /><!--]-->
+        <!--[--><b>Неделя, 26 Септември 2021</b>.<br /><!--]-->
 <b><a href="http://siemens.bg/">Главен партньор: Siemens</a></b><br />
         <!--[--><span style="font-size: small">С подкрепата на:</span> <br />
             <a target="_blank" href="https://pavebikeshop.com/">PaVé Bike Shop</a>,
@@ -61,9 +61,9 @@ disableRSS = true
   [languages.en]
     languageName = "English"
     weight = 2
-    title = "Murgash Cup 2020"
+    title = "Murgash Cup 2021"
     description = """
-        <!--[--><p>Sunday, 27 September 2020.</p><!--]-->
+        <!--[--><p>Sunday, 26 September 2021.</p><!--]-->
         <b><a href="http://siemens.bg">Official Partner: Siemens</a></b><br />
         <!--[--><span style="font-size: small">In association with:</span> <br />
             <a target="_blank" href="https://pavebikeshop.com/">PaVé Bike Shop</a>,
@@ -89,6 +89,6 @@ disableRSS = true
         <!--]-->"""
 
     logo = "fa-bicycle"
-    copyright = "Veloclub Mammut 2020"
+    copyright = "Veloclub Mammut 2021"
 
 
