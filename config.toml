@@ -89,6 +89,7 @@ disableRSS = true
             <a target="_blank" href="https://crankarm.eu/cup_murgash/">Crankarm Cycling Club</a>,
             <a target="_blank" href="https://www.mtb-bg.com/">MTB-BG</a>,
         <!--]-->""""
+
     logo = "fa-bicycle"
     copyright = "Veloclub Mammut 2021"
 
