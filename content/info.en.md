@@ -135,5 +135,5 @@ weight: 3
 ### КЛАСИРАНЕ И НАГРАДИ:
 Класирането е индивидуално по групи. Награден фонд: парични и предметни награди осигурени от нашите спонсори:
 
-#### PAVÉ BIKE SHOP, RACE SERIES, ОЛИМП, SHIMANO, ISOSTAR, ЕФЕКТ, STROYRENT, SIEMENS, SHIMАNO, БАНКЯ, SUPPA, EPAY, EASYPAY, RACE TIMING BG, ВЕЛОКЛУБ КУРБЕЛ, MTB-BG, VELOCAFE
+#### БЪЛГАРСКА ФЕДЕРАЦИЯ КОЛОЕЗДЕНЕ, PAVÉ BIKE SHOP, ОЛИМП, SHIMANO, ISOSTAR, ЕФЕКТ, STROYRENT, SIEMENS, SHIMАNO, БАНКЯ, EPAY, EASYPAY, RACE TIMING BG, ВЕЛОКЛУБ КУРБЕЛ, MTB-BG
 
