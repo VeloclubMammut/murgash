@@ -16,9 +16,11 @@ weight: 3
 #### Elite (National XCM Championships https://race-series.com/)
 Category         | Born From |      To   | Link     
 :-----------------|:---------:|:---------:|:-----------:
- Junior Boys U15 (12-14)   | 1.1.2007  | 12.31.2008| [Register](https://forms.gle/smN5Y3T3Qd7m2TYCA)
- Junior Girls U15 (12-14) | 1.1.2007  | 12.31.2008| [Register](https://forms.gle/smN5Y3T3Qd7m2TYCA)
- Junior Boys U17 (15-16)   | 1.1.2005  | 12.31.2006| [Register](https://forms.gle/smN5Y3T3Qd7m2TYCA)
+ Junior Boys U13 (11-12)   | 1.1.2009  | 12.31.2010| [Register](https://forms.gle/smN5Y3T3Qd7m2TYCA)
+ Junior Girls U13 (11-12) | 1.1.2009  | 12.31.2010| [Register](https://forms.gle/smN5Y3T3Qd7m2TYCA)
+ Junior Boys U15 (13-14)   | 1.1.2007  | 12.31.2008| [Register](https://forms.gle/smN5Y3T3Qd7m2TYCA)
+ Junior Girls U15 (13-14) | 1.1.2007  | 12.31.2008| [Register](https://forms.gle/smN5Y3T3Qd7m2TYCA)
+ Junior Boys U17 (15-16)   | 1.1.2005  | 12.31.e006| [Register](https://forms.gle/smN5Y3T3Qd7m2TYCA)
  Junior Girls U17 (15-16) | 1.1.2005  | 12.31.2006| [Register](https://forms.gle/smN5Y3T3Qd7m2TYCA)
 #### Picnic
 Category         | Born From |      To   | Link     
