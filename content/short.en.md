@@ -8,7 +8,7 @@ weight: 7
 
 ## Race length: 44км
 ### Track  
-[Download (gpx)](https://drive.google.com/open?id=0B8lR1_MWHzbCMWhaR1pDeEZXV0k)  
+[Download (gpx)](https://connect.garmin.com/modern/course/42904308?fbclid=IwAR18JGHpiPfZV_U6oHys8bjhGF2OhSjTGciKAhDTeJ03vzi3SmegZugwuAc)
 [Bikemap](https://www.bikemap.net/en/route/4143055-murgash-44km/)  
 
 
