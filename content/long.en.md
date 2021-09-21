@@ -8,7 +8,7 @@ weight: 4
 
 ## 76km, 3300m climb
 ### Track  
-[Download (gpx)](https://drive.google.com/open?id=174corZb-OmA-8nSKEjw_8PGl8BZM7Q04)
+[Download (gpx)](https://drive.google.com/file/d/1UVHcFqAdP6WxTFFCrtQVBh5uQ6AQUC59/view?usp=sharing)
 
 [MapMyRide](https://www.mapmyride.com/routes/view/2049206296)
 
