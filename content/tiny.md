@@ -1,7 +1,7 @@
 ---
 title: "Регистрация Пикник"
 date: 2017-08-05T08:14:45Z
-draft: false
+draft: true
 expiryDate: 2021-09-25T20:59:45Z
 weight: 1
 ---
