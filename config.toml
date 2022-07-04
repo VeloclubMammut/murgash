@@ -1,5 +1,5 @@
 baseurl = "https://murgash.veloclubmammut.com/"
-title = "Купа Мургаш 2021"
+title = "Купа Мургаш 2022"
 theme = "dimension"
 languageCode = "en-us"
 defaultContentLanguage = "bg"
@@ -8,10 +8,10 @@ disableRSS = true
 
 [params]
     logo = "fa-bicycle"
-    copyright = "Велоклуб Мамут 2021"
-    title = "Купа Мургаш 2021"
+    copyright = "Велоклуб Мамут 2022"
+    title = "Купа Мургаш 2022"
     description = '''
-        <!--[--><b>Неделя, 26 Септември 2021</b>.<br /><!--]-->
+        <!--[--><b>Неделя, 18 Септември 2022</b>.<br /><!--]-->
 <b><a href="https://www.siemens.bg/">Главен партньор: Siemens</a></b><br />
         <!--[--><span style="font-size: small">С подкрепата на:</span> <br />
             <a target="_blank" href="https://effect.bg/">Ефект</a>,
@@ -65,7 +65,7 @@ disableRSS = true
     weight = 2
     title = "Murgash Cup 2021"
     description = '''
-        <!--[--><p>Sunday, 26 September 2021.</p><!--]-->
+        <!--[--><p>Sunday, 18 September 2022.</p><!--]-->
         <b><a href="https://www.siemens.bg">Official Partner: Siemens</a></b><br />
         <!--[--><span style="font-size: small">In association with:</span> <br />
             <a target="_blank" href="https://effect.bg/">Effect</a>,
