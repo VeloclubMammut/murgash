@@ -1,8 +1,8 @@
 ---
 title: "Регистрация Епик"
 date: 2019-06-16T08:14:45Z
-draft: true
-expiryDate: 2021-09-25T20:59:45Z
+draft: false
+expiryDate: 2022-09-17T20:59:45Z
 weight: 3
 ---
 
