@@ -60,36 +60,6 @@ disableRSS = true
   [languages.bg]
     languageName = "Български"
     weight = 1
-  [languages.en]
-    languageName = "English"
-    weight = 2
-    title = "Murgash Cup 2021"
-    description = '''
-        <!--[--><p>Sunday, 18 September 2022.</p><!--]-->
-        <b><a href="https://www.siemens.bg">Official Partner: Siemens</a></b><br />
-        <!--[--><span style="font-size: small">In association with:</span> <br />
-            <a target="_blank" href="https://effect.bg/">Effect</a>,
-            <a target="_blank" href="https://bike.shimano.com/en-US/home.html">Shimano</a>,
-            <a target="_blank" href="http://www.diem2.com/">Diem Sport</a>,
-            <a target="_blank" href="https://keskin.bg/">Dr. Keskin</a>,
-            <a target="_blank" href="https://www.isostar.com/">Isostar</a>,
-            <a target="_blank" href="http://olimpbg.com/">Olimp</a>,
-            <a target="_blank" href="https://snowlimit.bg/">Snow Limit</a>,
-            <br />
-            <a target="_blank" href="https://pavebikeshop.com/">PaVé Bike Shop</a>,
-            <a target="_blank" href="https://www.avitel-bg.com/">Avitel</a>,
-            <a target="_blank" href="https://stroyrent.bg/">StroyRent</a>,
-            <a target="_blank" href="https://www.euroins.bg/">EuroIns</a>,
-            <a target="_blank" href="https://www.easypay.bg/site">EasyPay</a>
-            <!--]-->
-
-        <!--[--><br />
-            <span style="font-size: small">Media coverage:</span> <br />
-            <a target="_blank" href="https://www.racetimingbg.com/">Race Timing BG</a>,
-            <a target="_blank" href="https://crankarm.eu/cup_murgash/">Crankarm Cycling Club</a>,
-            <a target="_blank" href="https://www.mtb-bg.com/">MTB-BG</a>
-        <!--]-->'''
-
     logo = "fa-bicycle"
     copyright = "Veloclub Mammut 2021"
 
