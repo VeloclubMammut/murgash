@@ -14,14 +14,12 @@ weight: 3
 
 
 ### Категории
-
-#### Елит (Държавен шампионат XCM)
 | Категория         | Родени От |      До   | Регистрация
 :-----------------|:---------:|:---------:|------------:
- Жени U23 (19-22)  | 1.1.1999  | 12.31.2002| [Регистрация](https://forms.gle/ei69dnTeQJvmPHqL9)
- Мъже U23 (19-22)  | 1.1.1999  | 12.31.2002| [Регистрация](https://forms.gle/ei69dnTeQJvmPHqL9)
- Жени елит (23-39) | 1.1.1982  | 12.31.1998| [Регистрация](https://forms.gle/ei69dnTeQJvmPHqL9)
- Мъже елит (23-39) | 1.1.1982  | 12.31.1998| [Регистрация](https://forms.gle/ei69dnTeQJvmPHqL9)
- Мъже ветерани  (40+)   |     *     | 12.31.1981| [Регистрация](https://forms.gle/ei69dnTeQJvmPHqL9)
- Жени ветерани  (40+)   |     *     | 12.31.1981| [Регистрация](https://forms.gle/ei69dnTeQJvmPHqL9)
+ Жени U23 (19-22)  | 1.1.2000  | 12.31.2003| [Регистрация](https://docs.google.com/forms/d/e/1FAIpQLSdVXeixHlxAwbuhJfryUydp4P_peh2CgtVEF_e7vTrEAg5ZRQ/viewform)
+ Мъже U23 (19-22)  | 1.1.2000  | 12.31.2003| [Регистрация](https://docs.google.com/forms/d/e/1FAIpQLSdVXeixHlxAwbuhJfryUydp4P_peh2CgtVEF_e7vTrEAg5ZRQ/viewform)
+ Жени елит (23-39) | 1.1.1983  | 12.31.1999| [Регистрация](https://docs.google.com/forms/d/e/1FAIpQLSdVXeixHlxAwbuhJfryUydp4P_peh2CgtVEF_e7vTrEAg5ZRQ/viewform)
+ Мъже елит (23-39) | 1.1.1983  | 12.31.1999| [Регистрация](https://docs.google.com/forms/d/e/1FAIpQLSdVXeixHlxAwbuhJfryUydp4P_peh2CgtVEF_e7vTrEAg5ZRQ/viewform)
+ Мъже ветерани  (40+)   |     *     | 12.31.1982| [Регистрация](https://docs.google.com/forms/d/e/1FAIpQLSdVXeixHlxAwbuhJfryUydp4P_peh2CgtVEF_e7vTrEAg5ZRQ/viewform)
+ Жени ветерани  (40+)   |     *     | 12.31.1982| [Регистрация](https://docs.google.com/forms/d/e/1FAIpQLSdVXeixHlxAwbuhJfryUydp4P_peh2CgtVEF_e7vTrEAg5ZRQ/viewform)
 

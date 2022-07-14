@@ -13,20 +13,12 @@ weight: 2
 
 
 ### Категории
-#### класик
 Категория         | Родени От |      До   | Регистрация     
 :-----------------|:---------:|:---------:|:-----------:
- Мъже класик (19+)  |     *     | 12.31.2002| [Регистрация](https://forms.gle/VdwnRV3h25QuY5bE9 )
- Жени класик (19+)  |     *     | 12.31.2002| [Регистрация](https://forms.gle/VdwnRV3h25QuY5bE9 )
- Мъже ветерани (40+)  |     *     | 12.31.1981| [Регистрация](https://forms.gle/VdwnRV3h25QuY5bE9 )
- Жени ветерани (40+)  |     *     | 12.31.1981| [Регистрация](https://forms.gle/VdwnRV3h25QuY5bE9 )
- Е-байк             |     *     |     *     | [Регистрация](https://forms.gle/VdwnRV3h25QuY5bE9 )
-
-
-#### Елит (Държавен шампионат XCM)
-Категория         | Родени От |      До   | Регистрация
-:-----------------|:---------:|:---------:|-------------:
- Девойки U19 (17-18)  | 1.1.2003  | 12.31.2004| [Регистрация](https://forms.gle/VdwnRV3h25QuY5bE9 )
- Юноши U19 (17-18)| 1.1.2003  | 12.31.2004| [Регистрация](https://forms.gle/VdwnRV3h25QuY5bE9 )
-
-
+ Девойки U19 (17-18)  | 1.1.2004  | 12.31.2005| [Регистрация](https://docs.google.com/forms/d/e/1FAIpQLSeyvRM3cF_i20yRk7kvg9v7zuALxREWTaXMqeJoMrGhkyZ3xw/formResponse )
+ Юноши U19 (17-18)| 1.1.2004  | 12.31.2005| [Регистрация](https://docs.google.com/forms/d/e/1FAIpQLSeyvRM3cF_i20yRk7kvg9v7zuALxREWTaXMqeJoMrGhkyZ3xw/formResponse )
+ Мъже класик (19+)  |     *     | 12.31.2003| [Регистрация](https://docs.google.com/forms/d/e/1FAIpQLSeyvRM3cF_i20yRk7kvg9v7zuALxREWTaXMqeJoMrGhkyZ3xw/formResponse )
+ Жени класик (19+)  |     *     | 12.31.2003| [Регистрация](https://docs.google.com/forms/d/e/1FAIpQLSeyvRM3cF_i20yRk7kvg9v7zuALxREWTaXMqeJoMrGhkyZ3xw/formResponse )
+ Мъже ветерани (40+)  |     *     | 12.31.1982| [Регистрация](https://docs.google.com/forms/d/e/1FAIpQLSeyvRM3cF_i20yRk7kvg9v7zuALxREWTaXMqeJoMrGhkyZ3xw/formResponse )
+ Жени ветерани (40+)  |     *     | 12.31.1982| [Регистрация](https://docs.google.com/forms/d/e/1FAIpQLSeyvRM3cF_i20yRk7kvg9v7zuALxREWTaXMqeJoMrGhkyZ3xw/formResponse )
+ Е-байк             |     *     |     *     | [Регистрация](https://docs.google.com/forms/d/e/1FAIpQLSeyvRM3cF_i20yRk7kvg9v7zuALxREWTaXMqeJoMrGhkyZ3xw/formResponse )

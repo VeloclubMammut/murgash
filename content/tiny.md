@@ -12,17 +12,15 @@ weight: 1
 
 
 ### Категории
-#### Елит (Кръг от БКЛ https://race-series.com/)
 Категория         | Родени От |      До   | Регистрация
 :-----------------|:---------:|:---------:|:-----------:
- Юноши U13 (11-12)   | 1.1.2009  | 12.31.2010| [Регистрация](https://forms.gle/smN5Y3T3Qd7m2TYCA)
- Девойки U13 (11-12) | 1.1.2009  | 12.31.2010| [Регистрация](https://forms.gle/smN5Y3T3Qd7m2TYCA)
- Юноши U15 (12-14)   | 1.1.2007  | 12.31.2008| [Регистрация](https://forms.gle/smN5Y3T3Qd7m2TYCA)
- Девойки U15 (12-14) | 1.1.2007  | 12.31.2008| [Регистрация](https://forms.gle/smN5Y3T3Qd7m2TYCA)
- Юноши U17 (15-16)   | 1.1.2005  | 12.31.2006| [Регистрация](https://forms.gle/smN5Y3T3Qd7m2TYCA)
- Девойки U17 (15-16) | 1.1.2005  | 12.31.2006| [Регистрация](https://forms.gle/smN5Y3T3Qd7m2TYCA)
-#### Пикник
-Категория         | Родени От |      До   | Регистрация
-:-----------------|:---------:|:---------:|:-----------:
- Мъже, хоби пикник (19+)  |     *     | 12.31.2002| [Регистрация](https://forms.gle/smN5Y3T3Qd7m2TYCA)
- Жени, хоби пикник  (19+) |     *     | 12.31.2002| [Регистрация](https://forms.gle/smN5Y3T3Qd7m2TYCA)
+ Юноши U13           |  *        | 12.31.2011| [Регистрация](https://docs.google.com/forms/d/e/1FAIpQLScTem4WJwJA-d4O3a18Ok4Q-zyRjW9-qp6EEep6WUFADOx-6g/viewform)
+ Девойки U13         |  *        | 12.31.2011| [Регистрация](https://docs.google.com/forms/d/e/1FAIpQLScTem4WJwJA-d4O3a18Ok4Q-zyRjW9-qp6EEep6WUFADOx-6g/viewform)
+ Юноши U15 (12-14)   | 1.1.2008  | 12.31.2009| [Регистрация](https://docs.google.com/forms/d/e/1FAIpQLScTem4WJwJA-d4O3a18Ok4Q-zyRjW9-qp6EEep6WUFADOx-6g/viewform)
+ Девойки U15 (12-14) | 1.1.2008  | 12.31.2009| [Регистрация](https://docs.google.com/forms/d/e/1FAIpQLScTem4WJwJA-d4O3a18Ok4Q-zyRjW9-qp6EEep6WUFADOx-6g/viewform)
+ Юноши U17 (15-16)   | 1.1.2006  | 12.31.2007| [Регистрация](https://docs.google.com/forms/d/e/1FAIpQLScTem4WJwJA-d4O3a18Ok4Q-zyRjW9-qp6EEep6WUFADOx-6g/viewform)
+ Девойки U17 (15-16) | 1.1.2006  | 12.31.2007| [Регистрация](https://docs.google.com/forms/d/e/1FAIpQLScTem4WJwJA-d4O3a18Ok4Q-zyRjW9-qp6EEep6WUFADOx-6g/viewform)
+ Юноши U19 (17-18)   | 1.1.2008  | 12.31.2009| [Регистрация](https://docs.google.com/forms/d/e/1FAIpQLScTem4WJwJA-d4O3a18Ok4Q-zyRjW9-qp6EEep6WUFADOx-6g/viewform)
+ Девойки U19 (17-18) | 1.1.2008  | 12.31.2009| [Регистрация](https://docs.google.com/forms/d/e/1FAIpQLScTem4WJwJA-d4O3a18Ok4Q-zyRjW9-qp6EEep6WUFADOx-6g/viewform)
+ Мъже, хоби пикник (19+)  |     *     | 12.31.2003| [Регистрация](https://docs.google.com/forms/d/e/1FAIpQLScTem4WJwJA-d4O3a18Ok4Q-zyRjW9-qp6EEep6WUFADOx-6g/viewform)
+ Жени, хоби пикник  (19+) |     *     | 12.31.2003| [Регистрация](https://docs.google.com/forms/d/e/1FAIpQLScTem4WJwJA-d4O3a18Ok4Q-zyRjW9-qp6EEep6WUFADOx-6g/viewform)
