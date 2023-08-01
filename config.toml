@@ -1,66 +1,36 @@
-baseurl = "https://murgash.veloclubmammut.com/"
-title = "Купа Мургаш 2022"
-theme = "dimension"
-languageCode = "en-us"
-defaultContentLanguage = "bg"
-enableRobotsTXT = true
-disableRSS = true
+## -----------------------------------------------
+## Basic Configuration
+## -----------------------------------------------
 
-[params]
-    logo = "fa-bicycle"
-    copyright = "Велоклуб Мамут 2022"
-    title = "Купа Мургаш 2022"
-    description = '''
-        <!--[--><b>Неделя, 18 Септември 2022</b>.<br /><!--]-->
-<b><a href="https://www.siemens.bg/">Главен партньор: Siemens</a></b><br />
-        <!--[--><span style="font-size: small">С подкрепата на:</span> <br />
-            <a target="_blank" href="https://effect.bg/">Ефект</a>,
-            <a target="_blank" href="https://bike.shimano.com/en-US/home.html">Shimano</a>,
-            <a target="_blank" href="http://www.diem2.com/">Diem Sport</a>,
-            <a target="_blank" href="https://keskin.bg/">Dr. Keskin</a>,
-            <a target="_blank" href="https://www.isostar.com/">Isostar</a>,
-            <a target="_blank" href="http://olimpbg.com/">Олимп</a>,
-            <a target="_blank" href="https://snowlimit.bg/">Snow Limit</a>,
-            <br />
-            <a target="_blank" href="https://pavebikeshop.com/">PaVé Bike Shop</a>,
-            <a target="_blank" href="https://www.avitel-bg.com/">Авител</a>,
-            <a target="_blank" href="https://stroyrent.bg/">Стройрент</a>,
-            <a target="_blank" href="https://www.euroins.bg/">EuroIns</a>,
-            <a target="_blank" href="https://www.easypay.bg/site">EasyPay</a>
-            <!--]-->
+theme = "hugo-story"
 
-        <!--[--><br />
-            <span style="font-size: small">Медийни партньори:</span> <br />
-            <a target="_blank" href="https://www.racetimingbg.com/">Race Timing BG</a>,
-            <a target="_blank" href="https://crankarm.eu/cup_murgash/">Велоклуб Курбел</a>,
-            <a target="_blank" href="https://www.mtb-bg.com/">MTB-BG</a>
-        <!--]-->'''
+## -----------------------------------------------
+## Publish
+## -----------------------------------------------
 
-#[[params.social]]
-#  medium = "twitter"
-#  icon = "twitter"
-#  link = "#"
+relativeURLs = "true"
+#canonifyURLs = "true"
 
-[[params.social]]
-  medium = "facebook"
-  icon = "facebook"
-  link = "https://www.facebook.com/murgash.xcm/"
+# Local
+baseURL = "/"
+publishDir = "public"
 
-#[[params.social]]
-#  medium = "instagram"
-#  icon = "instagram"
-#  link = "#"
-
-#[[params.social]]
-#  medium = "github"
-#  icon = "github"
-#  link = "#"
-
-[languages]
-  [languages.bg]
-    languageName = "Български"
-    weight = 1
-    logo = "fa-bicycle"
-    copyright = "Veloclub Mammut 2021"
+# Remote
+#baseURL = "https://caressofsteel.github.io/demos/hugo/hugo-story/"
+#publishDir = "//centos/sites/hugodev/hugostory/"
 
 
+## -----------------------------------------------
+## Hugo Built-in Features
+## -----------------------------------------------
+
+disableKinds = ["taxonomy", "taxonomyTerm", "section"]
+# googleAnalytics = "your-google-analytics-id"
+
+## -----------------------------------------------
+## Site Parameters
+## -----------------------------------------------
+
+[Params]
+
+[Params.social]
