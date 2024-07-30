@@ -2,7 +2,7 @@
 ## Basic Configuration
 ## -----------------------------------------------
 
-title = "Купа Мургаш 2023"
+title = "Купа Мургаш 2024"
 copyright = "{year}"
 
 ## -----------------------------------------------
@@ -32,7 +32,7 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 ## -----------------------------------------------
 
 [Params]
-  description = "22.10.2023 г Г. /НЕДЕЛЯ/, C. ЖЕЛЯВА"
+  description = "20.10.2024 г Г. /НЕДЕЛЯ/, C. ЖЕЛЯВА"
   logo = "images/banner.jpg"
   favicon = true
 
