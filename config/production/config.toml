@@ -32,7 +32,7 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 ## -----------------------------------------------
 
 [Params]
-  description = "20.10.2024 г Г. /НЕДЕЛЯ/, C. ЖЕЛЯВА"
+  description = "27.09.2025 г Г. /НЕДЕЛЯ/, C. ЖЕЛЯВА"
   logo = "images/banner.jpg"
   favicon = true
 
