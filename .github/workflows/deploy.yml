@@ -1,0 +1,38 @@
+name: Build and Deploy Hugo Site
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+
+    env:
+      HUGO_THEME: hugo-story
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Set up Docker
+      uses: docker/setup-buildx-action@v3
+
+    - name: Create SSH deploy key from secret
+      run: |
+        mkdir -p ~/.ssh
+        echo "${{ secrets.DEPLOY_KEY }}" > ~/.ssh/id_rsa
+        chmod 600 ~/.ssh/id_rsa
+
+    - name: Add SSH host to known_hosts
+      run: ssh-keyscan murgash.veloclubmammut.com >> ~/.ssh/known_hosts
+
+    - name: Run Hugo build in Docker
+      run: |
+        docker run --rm -v ${{ github.workspace }}:/site -w /site philipbalinov/hugo-docker -t $HUGO_THEME
+
+    - name: Deploy with rsync over SSH
+      run: |
+        rsync -az public/ murgash@murgash.veloclubmammut.com:/var/www/html/murgash
+
