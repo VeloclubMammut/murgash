@@ -15,17 +15,18 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
         with:
           submodules: recursive
 
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@6e295a6a0c9087bf374299e9d67f9d2edab9f18f # v3.0.0
+        with:
+          hugo-version: '0.147.0'
+          extended: true
+
       - name: Build site
-        run: |
-          docker run --rm \
-            -v "${{ github.workspace }}:/site" \
-            -w /site \
-            philipbalinov/hugo-docker \
-            -e production
+        run: hugo -e production
 
       - name: Add SSH known host
         run: |
@@ -38,10 +39,10 @@ jobs:
         env:
           DEPLOY_KEY: ${{ secrets.DEPLOY_KEY }}
         run: |
+          trap 'rm -f /tmp/deploy_key' EXIT
           echo "$DEPLOY_KEY" > /tmp/deploy_key
           chmod 600 /tmp/deploy_key
           rsync -az --delete \
             -e "ssh -i /tmp/deploy_key -o StrictHostKeyChecking=yes" \
             public/ \
             murgash@murgash.veloclubmammut.com:/var/www/html/murgash
-          rm -f /tmp/deploy_key
