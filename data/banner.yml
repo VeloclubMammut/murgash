@@ -1,13 +1,17 @@
 ####################### Banner #########################
 style: "style2 orient-left content-align-right image-position-center fullscreen onload-image-fade-in onload-content-fade-right"
-title : "Купа Мургаш 2025"
+title : "Купа Мургаш 2026"
 subtitle: |
-  27 Септември 2025г /СЪБОТА/, <strong>C. ЖЕЛЯВА</strong>
+  31 Май 2026г /НЕДЕЛЯ/, <strong>С. ЖЕЛЯВА</strong>
 content : |
 
 
 button:
   label : "Научи повече"
   link : "#whenandwhere"
+buttons:
+  - label: "Регистрация"
+    link: "#registration"
+  - label: "Зала на славата"
+    link: "#halloffame"
 image : "images/banner.jpg"
-

@@ -1,8 +1,8 @@
 # Main Title
 main:
   header:
-    title : "Купа Мургаш 2024" # Title Text
-    description : "Неделя, 27 СЕПТЕМВРИ - с. Желява" # Title Desc
+    title : "Купа Мургаш 2026" # Title Text
+    description : "Неделя, 31 МАЙ - с. Желява" # Title Desc
     button:
       text: "Научи повече" # Button Text
       url: "#about" # Button URL

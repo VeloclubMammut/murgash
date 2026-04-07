@@ -4,9 +4,10 @@
         {{ with .title }}<h1>{{ . }}</h1>{{ end }}
         {{ with .subtitle }}<p class="major">{{ . | safeHTML }}</p>{{ end }}
         {{ with .content }}<p>{{ . | safeHTML }}</p>{{ end }}
-        {{ with .button }}<ul class="actions stacked">
-            <li><a href="{{ .link }}" class="button primary large wide smooth-scroll-middle">{{ .label }}</a></li>
-        </ul>{{ end }}
+        <ul class="actions">
+            {{ with .button }}<li><a href="{{ .link }}" class="button primary smooth-scroll-middle">{{ .label }}</a></li>{{ end }}
+            {{ range .buttons }}<li><a href="{{ .link }}" class="button smooth-scroll-middle">{{ .label }}</a></li>{{ end }}
+        </ul>
     </div>
     {{ with .image }}<div class="image">
         <img src="{{.}}" alt="Hugo Story" />

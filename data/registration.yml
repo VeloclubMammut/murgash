@@ -4,25 +4,23 @@ id: "registration"
 title : "РЕГИСТРАЦИЯ, ТАКСИ, ЛИЦЕНЗИ И ЗАСТРАХОВКА"
 content: |-
     <h3>Линк за регистрация:</h3>
-    <a target="_blank" href="https://tracksport.live/e/kupa-murgas-2025#tickets ">👉 https://tracksport.live/e/kupa-murgas-2025#tickets</a><br />
-    КРАЙНИЯТ СРОК ЗА РЕГИСТРАЦИЯ Е
-    26ти СЕПТЕМВРИ 2025 Г В 23:59 ЧАСА<br />
+    <a target="_blank" href="https://tracksport.live/e/kupa-murgas-2026/tickets/">👉 https://tracksport.live/e/kupa-murgas-2026/tickets/</a><br />
+    КРАЙНИЯТ СРОК ЗА РЕГИСТРАЦИЯ Е 29 МАЙ 2026 Г. В 23:59 ЧАСА<br />
     <br />
     <h3>ТАКСА ЗА УЧАСТИЕ:</h3>
-    До 07.09.2024 ранна регистрация 60 лв (за трасе Пикник тази такса ще остане непроменена)<br />
-    До 19.09.2024 80 лв<br />
-    До 26.10.2024 100 лв <br />
-    Тази година ще даваме ЕЛЕК на първите 200 регистрирани, успешно заплатили такса и успешно завършили състезанието.
-    <br />
+    До 24.03.2026 ранна регистрация - 30 евро<br />
+    До 24.04.2026 - 40 евро<br />
+    До 17.05.2026 - 55 евро<br />
     <br />
 
     <h3>КАТЕГОРИИ, КЛАСИРАНЕ И НАГРАДИ:</h3>
     <p>
-    Класирането е индивидуално по групи. Награден фонд: предметни награди осигурени от нашите партньори:
-
-    <strong>PAVÉ BIKE SHOP, SIEMENS, STROYRENT, ДИЕМ, ОЛИМП, ЕФЕКТ, АВИТЕЛ, ISOSTAR, EASYPAY, EUROINS, TRACKSPORT.live, MTB-BG</strong>
+    Класирането е индивидуално по групи.<br />
+    <strong>ЕПИК:</strong> Паричен награден фонд 3000 евро<br />
+    <strong>КЛАСИК и ПИКНИК:</strong> Предметни награди осигурени от нашите партньори:<br />
+    <strong>PAVÉ BIKE SHOP, SIEMENS, STROYRENT, ДИЕМ, ОЛИМП, ЕФЕКТ, AVITEL, EASYPAY, EUROINS, TRACKSPORT.live, SPONSER, MTB-BG</strong>
     </p>
-button: 
+button:
   label: "Програма на състезанието"
   link: "#program"
 image: "images/bg-signup.jpg"

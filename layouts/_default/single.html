@@ -1,0 +1,10 @@
+{{ define "main" }}
+<section class="wrapper style1 align-left">
+    <div class="inner">
+        <a href="/" class="button small">&larr; Начало</a>
+        <h1>{{ .Title }}</h1>
+        {{ .Content }}
+    </div>
+</section>
+{{ partial "footer" . }}
+{{ end }}
