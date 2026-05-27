@@ -109,7 +109,7 @@ weight: 7
 📌 Общото класиране = сумирано време от двата дни  
 
 **Партньори:**  
-PAVÉ BIKE SHOP, SIEMENS, STROYRENT, ДИЕМ, ОЛИМП, ЕФЕКТ, АВИТЕЛ, ISOSTAR, EASYPAY, EUROINS, TRACKSPORT.live, MTB-BG  
+PAVÉ BIKE SHOP, SIEMENS, STROYRENT, ДИЕМ, ОЛИМП, ЕФЕКТ, АВИТЕЛ, ISOSTAR, EASYPAY, [![EUROINS](https://talentclub.bg/wp-content/uploads/2024/10/Euroins-Bulgaria-online-1.jpg)](https://www.euroins.bg), TRACKSPORT.live, MTB-BG  
 
 ---
 

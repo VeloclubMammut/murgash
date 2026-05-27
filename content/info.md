@@ -70,7 +70,7 @@ GPX файл: [bit.ly/4g34Act](http://bit.ly/4g34Act)
 
 **КЛАСИК и ПИКНИК:** Предметни награди осигурени от нашите партньори
 
-## PAVÉ BIKE SHOP, SIEMENS, STROYRENT, ДИЕМ, ОЛИМП, ЕФЕКТ, AVITEL, EASYPAY, EUROINS, TRACKSPORT.live, SPONSER, MTB-BG
+## PAVÉ BIKE SHOP, SIEMENS, STROYRENT, ДИЕМ, ОЛИМП, ЕФЕКТ, AVITEL, EASYPAY, [![EUROINS](https://talentclub.bg/wp-content/uploads/2024/10/Euroins-Bulgaria-online-1.jpg)](https://www.euroins.bg), TRACKSPORT.live, SPONSER, MTB-BG
 
 &nbsp;
 &nbsp;
