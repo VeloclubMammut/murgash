@@ -70,7 +70,7 @@ GPX файл: [bit.ly/4g34Act](http://bit.ly/4g34Act)
 
 **КЛАСИК и ПИКНИК:** Предметни награди осигурени от нашите партньори
 
-## <a href="https://pavebikeshop.com/" target="_blank"><img src="https://pavebikeshop.com/cdn/shop/files/PaVe_Shop_Logo_-_Trench_crop.png?v=1616684082&width=150" alt="PAVÉ BIKE SHOP" width="150" style="vertical-align:middle"></a>, SIEMENS, <a href="https://stroyrent.bg/en" target="_blank"><img src="https://stroyrent.bg/qmaindir/images/logo_en.svg?ver=1.2" alt="STROYRENT" width="150" style="vertical-align:middle"></a>, ДИЕМ, ОЛИМП, ЕФЕКТ, AVITEL, EASYPAY, <a href="https://www.euroins.bg" target="_blank"><img src="https://talentclub.bg/wp-content/uploads/2024/10/Euroins-Bulgaria-online-1.jpg" alt="EUROINS" width="150" style="vertical-align:middle"></a>, TRACKSPORT.live, SPONSER, MTB-BG
+## <a href="https://pavebikeshop.com/" target="_blank"><img src="https://pavebikeshop.com/cdn/shop/files/PaVe_Shop_Logo_-_Trench_crop.png?v=1616684082&width=150" alt="PAVÉ BIKE SHOP" width="150" style="vertical-align:middle"></a>, SIEMENS, <a href="https://stroyrent.bg/en" target="_blank"><img src="https://stroyrent.bg/qmaindir/images/logo_en.svg?ver=1.2" alt="STROYRENT" width="150" style="vertical-align:middle"></a>, ДИЕМ, ОЛИМП, ЕФЕКТ, AVITEL, EASYPAY, <a href="https://www.euroins.bg" target="_blank"><img src="https://talentclub.bg/wp-content/uploads/2024/10/Euroins-Bulgaria-online-1.jpg" alt="EUROINS" width="150" style="vertical-align:middle"></a>, <a href="https://tracksport.live/" target="_blank">TRACKSPORT.live</a>, SPONSER, MTB-BG
 
 &nbsp;
 &nbsp;
