@@ -29,7 +29,6 @@ GPX файл: [Guru Maps](https://shared.gurumaps.app/f6ac325e-343d-4811-9302-55
 - Мастърс (40+)
 - Юноши/Девойки (17-18 г.)
 - Юноши/Девойки (15-16 г.)
-- Е-байк
 
 #### ВКЛЮЧВА 1 /ЕДНО/ ИЗКАЧВАНЕ
 
@@ -70,7 +69,7 @@ GPX файл: [bit.ly/4g34Act](http://bit.ly/4g34Act)
 
 **КЛАСИК и ПИКНИК:** Предметни награди осигурени от нашите партньори
 
-## PAVÉ BIKE SHOP, SIEMENS, STROYRENT, ДИЕМ, ОЛИМП, ЕФЕКТ, AVITEL, EASYPAY, [![EUROINS](https://talentclub.bg/wp-content/uploads/2024/10/Euroins-Bulgaria-online-1.jpg)](https://www.euroins.bg), TRACKSPORT.live, SPONSER, MTB-BG
+## PAVÉ BIKE SHOP, SIEMENS, STROYRENT, ДИЕМ, ОЛИМП, ЕФЕКТ, AVITEL, EASYPAY, <a href="https://www.euroins.bg" target="_blank"><img src="https://talentclub.bg/wp-content/uploads/2024/10/Euroins-Bulgaria-online-1.jpg" alt="EUROINS" width="100" style="vertical-align:middle"></a>, TRACKSPORT.live, SPONSER, MTB-BG
 
 &nbsp;
 &nbsp;

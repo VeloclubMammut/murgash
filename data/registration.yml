@@ -4,7 +4,7 @@ id: "registration"
 title : "РЕГИСТРАЦИЯ, ТАКСИ, ЛИЦЕНЗИ И ЗАСТРАХОВКА"
 content: |-
     <h3>Линк за регистрация:</h3>
-    <a target="_blank" href="https://tracksport.live/e/kupa-murgas-2026/tickets/">👉 https://tracksport.live/e/kupa-murgas-2026/tickets/</a><br />
+    <a target="_blank" href="https://tracksport.live/e/kupa-murgas-2026/tickets/piknik-5">👉 https://tracksport.live/e/kupa-murgas-2026/tickets/</a><br />
     КРАЙНИЯТ СРОК ЗА РЕГИСТРАЦИЯ Е 29 МАЙ 2026 Г. В 23:59 ЧАСА<br />
     <br />
     <h3>ТАКСА ЗА УЧАСТИЕ:</h3>
@@ -18,7 +18,7 @@ content: |-
     Класирането е индивидуално по групи.<br />
     <strong>ЕПИК:</strong> Паричен награден фонд 3000 евро<br />
     <strong>КЛАСИК и ПИКНИК:</strong> Предметни награди осигурени от нашите партньори:<br />
-    <strong>PAVÉ BIKE SHOP, SIEMENS, STROYRENT, ДИЕМ, ОЛИМП, ЕФЕКТ, AVITEL, EASYPAY, EUROINS, TRACKSPORT.live, SPONSER, MTB-BG</strong>
+    <strong>PAVÉ BIKE SHOP, SIEMENS, STROYRENT, ДИЕМ, ОЛИМП, ЕФЕКТ, AVITEL, EASYPAY, <a href="https://www.euroins.bg" target="_blank"><img src="https://talentclub.bg/wp-content/uploads/2024/10/Euroins-Bulgaria-online-1.jpg" alt="EUROINS" width="100" style="vertical-align:middle"></a>, TRACKSPORT.live, SPONSER, MTB-BG</strong>
     </p>
 button:
   label: "Програма на състезанието"
