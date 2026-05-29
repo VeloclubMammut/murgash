@@ -108,7 +108,7 @@ weight: 7
 📌 Общото класиране = сумирано време от двата дни  
 
 **Партньори:**  
-<a href="https://www.siemens.com/bg-bg/" target="_blank"><img src="https://images.sw.cdn.siemens.com/logo/logo-white.svg" alt="SIEMENS" style="height:30px;vertical-align:middle;background-color:#009cde;padding:4px 8px"></a><br>
+<a href="https://www.siemens.com/bg-bg/" target="_blank"><img src="https://images.sw.cdn.siemens.com/logo/logo-white.svg" alt="SIEMENS" style="height:45px;vertical-align:middle;background-color:#009cde;padding:4px 8px"></a><br>
 <a href="https://pavebikeshop.com/" target="_blank"><img src="https://pavebikeshop.com/cdn/shop/files/PaVe_Shop_Logo_-_Trench_crop.png?v=1616684082&width=150" alt="PAVÉ BIKE SHOP" style="height:75px;vertical-align:middle"></a><br>
 <a href="https://stroyrent.bg/en" target="_blank"><img src="https://stroyrent.bg/qmaindir/images/logo_en.svg?ver=1.2" alt="STROYRENT" style="height:50px;vertical-align:middle;filter:invert(1)"></a><br>
 <a href="https://diem2.com/" target="_blank"><img src="https://diem2.com/wp-content/uploads/2022/03/logodiemsport-1.png" alt="ДИЕМ" style="height:50px;vertical-align:middle"></a><br>
