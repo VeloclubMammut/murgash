@@ -112,7 +112,7 @@ weight: 7
 <a href="https://pavebikeshop.com/" target="_blank"><img src="https://pavebikeshop.com/cdn/shop/files/PaVe_Shop_Logo_-_Trench_crop.png?v=1616684082&width=150" alt="PAVÉ BIKE SHOP" style="height:75px;vertical-align:middle"></a><br>
 <a href="https://stroyrent.bg/en" target="_blank"><img src="https://stroyrent.bg/qmaindir/images/logo_en.svg?ver=1.2" alt="STROYRENT" style="height:50px;vertical-align:middle;filter:invert(1)"></a><br>
 <a href="https://diem2.com/" target="_blank"><img src="https://diem2.com/wp-content/uploads/2022/03/logodiemsport-1.png" alt="ДИЕМ" style="height:50px;vertical-align:middle"></a><br>
-ОЛИМП<br>
+<a href="http://olimpbg.com/" target="_blank"><img src="http://olimpbg.com/wp-content/uploads/2019/06/logo7.png" alt="ОЛИМП" style="height:50px;vertical-align:middle"></a><br>
 <a href="https://effect.bg/" target="_blank"><img src="https://effect.bg/wp-content/uploads/2021/10/logo_effect.png" alt="ЕФЕКТ" style="height:50px;vertical-align:middle"></a><br>
 <a href="https://avitel-bg.com/" target="_blank">АВИТЕЛ</a><br>
 ISOSTAR<br>
