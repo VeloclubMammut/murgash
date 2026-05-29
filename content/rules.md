@@ -108,18 +108,18 @@ weight: 7
 📌 Общото класиране = сумирано време от двата дни  
 
 **Партньори:**  
-<a href="https://www.siemens.com/bg-bg/" target="_blank"><img src="https://images.sw.cdn.siemens.com/logo/logo-white.svg" alt="SIEMENS" width="300" style="vertical-align:middle;background-color:#009cde;padding:4px 8px"></a><br>
-<a href="https://pavebikeshop.com/" target="_blank"><img src="https://pavebikeshop.com/cdn/shop/files/PaVe_Shop_Logo_-_Trench_crop.png?v=1616684082&width=150" alt="PAVÉ BIKE SHOP" width="150" style="vertical-align:middle"></a><br>
-<a href="https://stroyrent.bg/en" target="_blank"><img src="https://stroyrent.bg/qmaindir/images/logo_en.svg?ver=1.2" alt="STROYRENT" width="150" style="vertical-align:middle;filter:invert(1)"></a><br>
-<a href="https://diem2.com/" target="_blank"><img src="https://diem2.com/wp-content/uploads/2022/03/logodiemsport-1.png" alt="ДИЕМ" width="150" style="vertical-align:middle"></a><br>
+<a href="https://www.siemens.com/bg-bg/" target="_blank"><img src="https://images.sw.cdn.siemens.com/logo/logo-white.svg" alt="SIEMENS" style="height:100px;vertical-align:middle;background-color:#009cde;padding:4px 8px"></a><br>
+<a href="https://pavebikeshop.com/" target="_blank"><img src="https://pavebikeshop.com/cdn/shop/files/PaVe_Shop_Logo_-_Trench_crop.png?v=1616684082&width=150" alt="PAVÉ BIKE SHOP" style="height:50px;vertical-align:middle"></a><br>
+<a href="https://stroyrent.bg/en" target="_blank"><img src="https://stroyrent.bg/qmaindir/images/logo_en.svg?ver=1.2" alt="STROYRENT" style="height:50px;vertical-align:middle;filter:invert(1)"></a><br>
+<a href="https://diem2.com/" target="_blank"><img src="https://diem2.com/wp-content/uploads/2022/03/logodiemsport-1.png" alt="ДИЕМ" style="height:50px;vertical-align:middle"></a><br>
 ОЛИМП<br>
-<a href="https://effect.bg/" target="_blank"><img src="https://effect.bg/wp-content/uploads/2021/10/logo_effect.png" alt="ЕФЕКТ" width="150" style="vertical-align:middle"></a><br>
+<a href="https://effect.bg/" target="_blank"><img src="https://effect.bg/wp-content/uploads/2021/10/logo_effect.png" alt="ЕФЕКТ" style="height:50px;vertical-align:middle"></a><br>
 <a href="https://avitel-bg.com/" target="_blank">АВИТЕЛ</a><br>
 ISOSTAR<br>
-<a href="https://www.easypay.bg/" target="_blank"><img src="https://www.easypay.bg/site/img/logo-easypay-sm.svg" alt="EASYPAY" width="80" style="vertical-align:middle"></a><br>
-<a href="https://www.euroins.bg" target="_blank"><img src="https://talentclub.bg/wp-content/uploads/2024/10/Euroins-Bulgaria-online-1.jpg" alt="EUROINS" width="150" style="vertical-align:middle"></a><br>
+<a href="https://www.easypay.bg/" target="_blank"><img src="https://www.easypay.bg/site/img/logo-easypay-sm.svg" alt="EASYPAY" style="height:35px;vertical-align:middle"></a><br>
+<a href="https://www.euroins.bg" target="_blank"><img src="https://talentclub.bg/wp-content/uploads/2024/10/Euroins-Bulgaria-online-1.jpg" alt="EUROINS" style="height:50px;vertical-align:middle"></a><br>
 <a href="https://tracksport.live/" target="_blank">TRACKSPORT.live</a><br>
-<a href="https://mtb-bg.com/" target="_blank"><img src="https://mtb-bg.com/wp-content/themes/mtb-bg/dist/assets/images/logo.png" alt="MTB-BG" width="150" style="vertical-align:middle"></a>  
+<a href="https://mtb-bg.com/" target="_blank"><img src="https://mtb-bg.com/wp-content/themes/mtb-bg/dist/assets/images/logo.png" alt="MTB-BG" style="height:50px;vertical-align:middle"></a>  
 
 ---
 
