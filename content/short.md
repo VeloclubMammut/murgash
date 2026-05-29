@@ -21,3 +21,4 @@ weight: 2
 | Девойки (17-18 г.)         | [Регистрация](https://tracksport.live/e/kupa-murgas-2026/tickets/) |
 | Юноши (15-16 г.)           | [Регистрация](https://tracksport.live/e/kupa-murgas-2026/tickets/) |
 | Девойки (15-16 г.)         | [Регистрация](https://tracksport.live/e/kupa-murgas-2026/tickets/) |
+| Е-байк                     | [Регистрация](https://tracksport.live/e/kupa-murgas-2026/tickets/) |
